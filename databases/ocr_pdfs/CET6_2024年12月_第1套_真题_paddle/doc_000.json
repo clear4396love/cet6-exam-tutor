@@ -1,0 +1,1433 @@
+{
+  "page_count": null,
+  "width": 1191,
+  "height": 1684,
+  "model_settings": {
+    "use_doc_preprocessor": false,
+    "use_layout_detection": true,
+    "use_chart_recognition": false,
+    "use_seal_recognition": false,
+    "use_ocr_for_image_block": false,
+    "format_block_content": false,
+    "merge_layout_blocks": true,
+    "markdown_ignore_labels": [
+      "number",
+      "footnote",
+      "header",
+      "header_image",
+      "footer",
+      "footer_image",
+      "aside_text"
+    ],
+    "return_layout_polygon_points": true
+  },
+  "parsing_res_list": [
+    {
+      "block_label": "doc_title",
+      "block_content": "大学英语六级考试 2024 年 12 月真题（第一套）",
+      "block_bbox": [
+        197,
+        81,
+        985,
+        126
+      ],
+      "block_id": 0,
+      "block_order": 1,
+      "group_id": 0,
+      "block_polygon_points": [
+        [
+          197.0,
+          81.0
+        ],
+        [
+          985.0,
+          81.0
+        ],
+        [
+          985.0,
+          126.0
+        ],
+        [
+          197.0,
+          126.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Part I",
+      "block_bbox": [
+        67,
+        153,
+        147,
+        182
+      ],
+      "block_id": 1,
+      "block_order": 2,
+      "group_id": 1,
+      "block_polygon_points": [
+        [
+          67.0,
+          153.0
+        ],
+        [
+          147.0,
+          153.0
+        ],
+        [
+          147.0,
+          182.0
+        ],
+        [
+          67.0,
+          182.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Writing",
+      "block_bbox": [
+        488,
+        151,
+        591,
+        185
+      ],
+      "block_id": 2,
+      "block_order": 3,
+      "group_id": 2,
+      "block_polygon_points": [
+        [
+          488.0,
+          151.0
+        ],
+        [
+          591.0,
+          151.0
+        ],
+        [
+          591.0,
+          185.0
+        ],
+        [
+          488.0,
+          185.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "(30 minutes)",
+      "block_bbox": [
+        951,
+        153,
+        1106,
+        183
+      ],
+      "block_id": 3,
+      "block_order": 4,
+      "group_id": 3,
+      "block_polygon_points": [
+        [
+          951.0,
+          153.0
+        ],
+        [
+          1106.0,
+          153.0
+        ],
+        [
+          1106.0,
+          183.0
+        ],
+        [
+          951.0,
+          183.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Directions: For this part you are allowed 30 minutes to write an essay that begins with the sentence \"To increase the likelihood of success, one should set realistic goals and work persistently towards them.\" You can make comments, cite examples or use your personal experiences to develop your essay. You should write at least 150 words but no more than 200 words.",
+      "block_bbox": [
+        67,
+        201,
+        1124,
+        321
+      ],
+      "block_id": 4,
+      "block_order": 5,
+      "group_id": 4,
+      "block_polygon_points": [
+        [
+          67.0,
+          201.0
+        ],
+        [
+          1124.0,
+          201.0
+        ],
+        [
+          1124.0,
+          321.0
+        ],
+        [
+          67.0,
+          321.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "You should copy the sentence given in quotes at the beginning of your essay.",
+      "block_bbox": [
+        68,
+        325,
+        754,
+        353
+      ],
+      "block_id": 5,
+      "block_order": 6,
+      "group_id": 5,
+      "block_polygon_points": [
+        [
+          68.0,
+          325.0
+        ],
+        [
+          754.0,
+          325.0
+        ],
+        [
+          754.0,
+          353.0
+        ],
+        [
+          68.0,
+          353.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Part II",
+      "block_bbox": [
+        68,
+        401,
+        158,
+        431
+      ],
+      "block_id": 6,
+      "block_order": 7,
+      "group_id": 6,
+      "block_polygon_points": [
+        [
+          68.0,
+          401.0
+        ],
+        [
+          158.0,
+          401.0
+        ],
+        [
+          158.0,
+          431.0
+        ],
+        [
+          68.0,
+          431.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Listening Comprehension",
+      "block_bbox": [
+        403,
+        402,
+        720,
+        433
+      ],
+      "block_id": 7,
+      "block_order": 8,
+      "group_id": 7,
+      "block_polygon_points": [
+        [
+          403.0,
+          402.0
+        ],
+        [
+          720.0,
+          402.0
+        ],
+        [
+          720.0,
+          433.0
+        ],
+        [
+          403.0,
+          433.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "(30 minutes)",
+      "block_bbox": [
+        951,
+        402,
+        1106,
+        433
+      ],
+      "block_id": 8,
+      "block_order": 9,
+      "group_id": 8,
+      "block_polygon_points": [
+        [
+          951.0,
+          402.0
+        ],
+        [
+          1106.0,
+          402.0
+        ],
+        [
+          1106.0,
+          433.0
+        ],
+        [
+          951.0,
+          433.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Section A",
+      "block_bbox": [
+        67,
+        451,
+        160,
+        475
+      ],
+      "block_id": 9,
+      "block_order": 10,
+      "group_id": 9,
+      "block_polygon_points": [
+        [
+          67.0,
+          451.0
+        ],
+        [
+          159.0,
+          451.0
+        ],
+        [
+          159.0,
+          474.0
+        ],
+        [
+          67.0,
+          474.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Directions: In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C), and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "block_bbox": [
+        65,
+        483,
+        1125,
+        602
+      ],
+      "block_id": 10,
+      "block_order": 11,
+      "group_id": 10,
+      "block_polygon_points": [
+        [
+          65.0,
+          483.0
+        ],
+        [
+          1125.0,
+          483.0
+        ],
+        [
+          1125.0,
+          602.0
+        ],
+        [
+          65.0,
+          602.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Questions 1 to 4 are based on the conversation you have just heard.",
+      "block_bbox": [
+        67,
+        607,
+        677,
+        632
+      ],
+      "block_id": 11,
+      "block_order": 12,
+      "group_id": 11,
+      "block_polygon_points": [
+        [
+          67.0,
+          607.0
+        ],
+        [
+          677.0,
+          607.0
+        ],
+        [
+          677.0,
+          632.0
+        ],
+        [
+          67.0,
+          632.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "1. A) Preparing for a job interview.\nB) Writing a work report together.\nC) Going through a couple of issues the company faces.\nD) Discussing the woman's annual performance review.",
+      "block_bbox": [
+        70,
+        638,
+        567,
+        756
+      ],
+      "block_id": 12,
+      "block_order": 13,
+      "group_id": 12,
+      "block_polygon_points": [
+        [
+          70.0,
+          638.0
+        ],
+        [
+          567.0,
+          638.0
+        ],
+        [
+          567.0,
+          756.0
+        ],
+        [
+          70.0,
+          756.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "2. A) The overall culture of the company. C) The honesty of the manager.\nB) The instruction from her supervisor. D) The recognition of her merits.",
+      "block_bbox": [
+        67,
+        761,
+        939,
+        820
+      ],
+      "block_id": 13,
+      "block_order": 14,
+      "group_id": 13,
+      "block_polygon_points": [
+        [
+          67.0,
+          761.0
+        ],
+        [
+          939.0,
+          761.0
+        ],
+        [
+          939.0,
+          820.0
+        ],
+        [
+          67.0,
+          820.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "3. A) Her inadequate language proficiency.\nB) Her inability to interact with colleagues properly.\nC) Her inappropriate behavior at company meetings.\nD) Her simplistic approach to dealing with others.",
+      "block_bbox": [
+        69,
+        825,
+        543,
+        944
+      ],
+      "block_id": 14,
+      "block_order": 15,
+      "group_id": 14,
+      "block_polygon_points": [
+        [
+          69.0,
+          825.0
+        ],
+        [
+          543.0,
+          825.0
+        ],
+        [
+          543.0,
+          944.0
+        ],
+        [
+          69.0,
+          944.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "4. A) To avoid offending the recipients. C) To save time.\nB) To show her unique writing style. D) To be frank.",
+      "block_bbox": [
+        67,
+        950,
+        800,
+        1007
+      ],
+      "block_id": 15,
+      "block_order": 16,
+      "group_id": 15,
+      "block_polygon_points": [
+        [
+          67.0,
+          950.0
+        ],
+        [
+          800.0,
+          950.0
+        ],
+        [
+          800.0,
+          1007.0
+        ],
+        [
+          67.0,
+          1007.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Questions 5 to 8 are based on the conversation you have just heard.",
+      "block_bbox": [
+        67,
+        1014,
+        677,
+        1038
+      ],
+      "block_id": 16,
+      "block_order": 17,
+      "group_id": 16,
+      "block_polygon_points": [
+        [
+          67.0,
+          1014.0
+        ],
+        [
+          677.0,
+          1014.0
+        ],
+        [
+          677.0,
+          1038.0
+        ],
+        [
+          67.0,
+          1038.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "5. A) Provide medical service to the community. C) Obtain a doctoral degree in internal medicine.\nB) Make healthcare in her hometown the best. D) Have a profound impact on people around her.",
+      "block_bbox": [
+        68,
+        1032,
+        1081,
+        1102
+      ],
+      "block_id": 17,
+      "block_order": 18,
+      "group_id": 17,
+      "block_polygon_points": [
+        [
+          68.0,
+          1032.0
+        ],
+        [
+          1081.0,
+          1032.0
+        ],
+        [
+          1081.0,
+          1102.0
+        ],
+        [
+          68.0,
+          1102.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "6. A) They have constantly urged her to study hard.\nB) They have worked hard to finance her education.\nC) They have tried to create a positive learning environment.\nD) They have pursued the family's dreams together with her.",
+      "block_bbox": [
+        68,
+        1108,
+        609,
+        1226
+      ],
+      "block_id": 18,
+      "block_order": 19,
+      "group_id": 18,
+      "block_polygon_points": [
+        [
+          68.0,
+          1108.0
+        ],
+        [
+          609.0,
+          1108.0
+        ],
+        [
+          609.0,
+          1226.0
+        ],
+        [
+          68.0,
+          1226.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "7. A) It is a key medical branch conducive to realizing her dreams.\nB) It connects many other specialties with its broad coverage.\nC) It has a long history in the man's prestigious institution.\nD) It is a medical branch both of her parents specialize in.",
+      "block_bbox": [
+        69,
+        1231,
+        628,
+        1350
+      ],
+      "block_id": 19,
+      "block_order": 20,
+      "group_id": 19,
+      "block_polygon_points": [
+        [
+          69.0,
+          1231.0
+        ],
+        [
+          628.0,
+          1231.0
+        ],
+        [
+          628.0,
+          1350.0
+        ],
+        [
+          69.0,
+          1350.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "8. A) Problematic. C) Inconsistent.\nB) Competitive. D) Trustworthy.",
+      "block_bbox": [
+        68,
+        1356,
+        672,
+        1412
+      ],
+      "block_id": 20,
+      "block_order": 21,
+      "group_id": 20,
+      "block_polygon_points": [
+        [
+          68.0,
+          1356.0
+        ],
+        [
+          672.0,
+          1356.0
+        ],
+        [
+          672.0,
+          1412.0
+        ],
+        [
+          68.0,
+          1412.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Section B",
+      "block_bbox": [
+        69,
+        1420,
+        160,
+        1442
+      ],
+      "block_id": 21,
+      "block_order": 22,
+      "group_id": 21,
+      "block_polygon_points": [
+        [
+          69.0,
+          1420.0
+        ],
+        [
+          159.0,
+          1420.0
+        ],
+        [
+          159.0,
+          1441.0
+        ],
+        [
+          69.0,
+          1441.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Directions: In this section, you will hear two passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C), and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "block_bbox": [
+        65,
+        1445,
+        1124,
+        1569
+      ],
+      "block_id": 22,
+      "block_order": 23,
+      "group_id": 22,
+      "block_polygon_points": [
+        [
+          65.0,
+          1445.0
+        ],
+        [
+          1124.0,
+          1445.0
+        ],
+        [
+          1124.0,
+          1569.0
+        ],
+        [
+          65.0,
+          1569.0
+        ]
+      ]
+    }
+  ],
+  "layout_det_res": {
+    "boxes": [
+      {
+        "cls_id": 6,
+        "label": "doc_title",
+        "score": 0.9308084845542908,
+        "coordinate": [
+          197,
+          81,
+          985,
+          126
+        ],
+        "order": 1,
+        "polygon_points": [
+          [
+            197.0,
+            81.0
+          ],
+          [
+            985.0,
+            81.0
+          ],
+          [
+            985.0,
+            126.0
+          ],
+          [
+            197.0,
+            126.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.7881096005439758,
+        "coordinate": [
+          67,
+          153,
+          147,
+          182
+        ],
+        "order": 2,
+        "polygon_points": [
+          [
+            67.0,
+            153.0
+          ],
+          [
+            147.0,
+            153.0
+          ],
+          [
+            147.0,
+            182.0
+          ],
+          [
+            67.0,
+            182.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.6882103085517883,
+        "coordinate": [
+          488,
+          151,
+          591,
+          185
+        ],
+        "order": 3,
+        "polygon_points": [
+          [
+            488.0,
+            151.0
+          ],
+          [
+            591.0,
+            151.0
+          ],
+          [
+            591.0,
+            185.0
+          ],
+          [
+            488.0,
+            185.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.6194901466369629,
+        "coordinate": [
+          951,
+          153,
+          1106,
+          183
+        ],
+        "order": 4,
+        "polygon_points": [
+          [
+            951.0,
+            153.0
+          ],
+          [
+            1106.0,
+            153.0
+          ],
+          [
+            1106.0,
+            183.0
+          ],
+          [
+            951.0,
+            183.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.7746985554695129,
+        "coordinate": [
+          67,
+          201,
+          1124,
+          321
+        ],
+        "order": 5,
+        "polygon_points": [
+          [
+            67.0,
+            201.0
+          ],
+          [
+            1124.0,
+            201.0
+          ],
+          [
+            1124.0,
+            321.0
+          ],
+          [
+            67.0,
+            321.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.7982293367385864,
+        "coordinate": [
+          68,
+          325,
+          754,
+          353
+        ],
+        "order": 6,
+        "polygon_points": [
+          [
+            68.0,
+            325.0
+          ],
+          [
+            754.0,
+            325.0
+          ],
+          [
+            754.0,
+            353.0
+          ],
+          [
+            68.0,
+            353.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.7390298247337341,
+        "coordinate": [
+          68,
+          401,
+          158,
+          431
+        ],
+        "order": 7,
+        "polygon_points": [
+          [
+            68.0,
+            401.0
+          ],
+          [
+            158.0,
+            401.0
+          ],
+          [
+            158.0,
+            431.0
+          ],
+          [
+            68.0,
+            431.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.5546882152557373,
+        "coordinate": [
+          403,
+          402,
+          720,
+          433
+        ],
+        "order": 8,
+        "polygon_points": [
+          [
+            403.0,
+            402.0
+          ],
+          [
+            720.0,
+            402.0
+          ],
+          [
+            720.0,
+            433.0
+          ],
+          [
+            403.0,
+            433.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8184719085693359,
+        "coordinate": [
+          951,
+          402,
+          1106,
+          433
+        ],
+        "order": 9,
+        "polygon_points": [
+          [
+            951.0,
+            402.0
+          ],
+          [
+            1106.0,
+            402.0
+          ],
+          [
+            1106.0,
+            433.0
+          ],
+          [
+            951.0,
+            433.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.7631988525390625,
+        "coordinate": [
+          67,
+          451,
+          160,
+          475
+        ],
+        "order": 10,
+        "polygon_points": [
+          [
+            67.0,
+            451.0
+          ],
+          [
+            159.0,
+            451.0
+          ],
+          [
+            159.0,
+            474.0
+          ],
+          [
+            67.0,
+            474.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8268781900405884,
+        "coordinate": [
+          65,
+          483,
+          1125,
+          602
+        ],
+        "order": 11,
+        "polygon_points": [
+          [
+            65.0,
+            483.0
+          ],
+          [
+            1125.0,
+            483.0
+          ],
+          [
+            1125.0,
+            602.0
+          ],
+          [
+            65.0,
+            602.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.6818468570709229,
+        "coordinate": [
+          67,
+          607,
+          677,
+          632
+        ],
+        "order": 12,
+        "polygon_points": [
+          [
+            67.0,
+            607.0
+          ],
+          [
+            677.0,
+            607.0
+          ],
+          [
+            677.0,
+            632.0
+          ],
+          [
+            67.0,
+            632.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9185276627540588,
+        "coordinate": [
+          70,
+          638,
+          567,
+          756
+        ],
+        "order": 13,
+        "polygon_points": [
+          [
+            70.0,
+            638.0
+          ],
+          [
+            567.0,
+            638.0
+          ],
+          [
+            567.0,
+            756.0
+          ],
+          [
+            70.0,
+            756.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8665485978126526,
+        "coordinate": [
+          67,
+          761,
+          939,
+          820
+        ],
+        "order": 14,
+        "polygon_points": [
+          [
+            67.0,
+            761.0
+          ],
+          [
+            939.0,
+            761.0
+          ],
+          [
+            939.0,
+            820.0
+          ],
+          [
+            67.0,
+            820.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9039473533630371,
+        "coordinate": [
+          69,
+          825,
+          543,
+          944
+        ],
+        "order": 15,
+        "polygon_points": [
+          [
+            69.0,
+            825.0
+          ],
+          [
+            543.0,
+            825.0
+          ],
+          [
+            543.0,
+            944.0
+          ],
+          [
+            69.0,
+            944.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8755645751953125,
+        "coordinate": [
+          67,
+          950,
+          800,
+          1007
+        ],
+        "order": 16,
+        "polygon_points": [
+          [
+            67.0,
+            950.0
+          ],
+          [
+            800.0,
+            950.0
+          ],
+          [
+            800.0,
+            1007.0
+          ],
+          [
+            67.0,
+            1007.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.4799630641937256,
+        "coordinate": [
+          67,
+          1014,
+          677,
+          1038
+        ],
+        "order": 17,
+        "polygon_points": [
+          [
+            67.0,
+            1014.0
+          ],
+          [
+            677.0,
+            1014.0
+          ],
+          [
+            677.0,
+            1038.0
+          ],
+          [
+            67.0,
+            1038.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8048538565635681,
+        "coordinate": [
+          68,
+          1032,
+          1081,
+          1102
+        ],
+        "order": 18,
+        "polygon_points": [
+          [
+            68.0,
+            1032.0
+          ],
+          [
+            1081.0,
+            1032.0
+          ],
+          [
+            1081.0,
+            1102.0
+          ],
+          [
+            68.0,
+            1102.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9361807107925415,
+        "coordinate": [
+          68,
+          1108,
+          609,
+          1226
+        ],
+        "order": 19,
+        "polygon_points": [
+          [
+            68.0,
+            1108.0
+          ],
+          [
+            609.0,
+            1108.0
+          ],
+          [
+            609.0,
+            1226.0
+          ],
+          [
+            68.0,
+            1226.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9325517416000366,
+        "coordinate": [
+          69,
+          1231,
+          628,
+          1350
+        ],
+        "order": 20,
+        "polygon_points": [
+          [
+            69.0,
+            1231.0
+          ],
+          [
+            628.0,
+            1231.0
+          ],
+          [
+            628.0,
+            1350.0
+          ],
+          [
+            69.0,
+            1350.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8840993046760559,
+        "coordinate": [
+          68,
+          1356,
+          672,
+          1412
+        ],
+        "order": 21,
+        "polygon_points": [
+          [
+            68.0,
+            1356.0
+          ],
+          [
+            672.0,
+            1356.0
+          ],
+          [
+            672.0,
+            1412.0
+          ],
+          [
+            68.0,
+            1412.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.5569711327552795,
+        "coordinate": [
+          69,
+          1420,
+          160,
+          1442
+        ],
+        "order": 22,
+        "polygon_points": [
+          [
+            69.0,
+            1420.0
+          ],
+          [
+            159.0,
+            1420.0
+          ],
+          [
+            159.0,
+            1441.0
+          ],
+          [
+            69.0,
+            1441.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8784010410308838,
+        "coordinate": [
+          65,
+          1445,
+          1124,
+          1569
+        ],
+        "order": 23,
+        "polygon_points": [
+          [
+            65.0,
+            1445.0
+          ],
+          [
+            1124.0,
+            1445.0
+          ],
+          [
+            1124.0,
+            1569.0
+          ],
+          [
+            65.0,
+            1569.0
+          ]
+        ]
+      }
+    ]
+  }
+}

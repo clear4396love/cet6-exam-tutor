@@ -1,0 +1,1433 @@
+{
+  "page_count": null,
+  "width": 1191,
+  "height": 1684,
+  "model_settings": {
+    "use_doc_preprocessor": false,
+    "use_layout_detection": true,
+    "use_chart_recognition": false,
+    "use_seal_recognition": false,
+    "use_ocr_for_image_block": false,
+    "format_block_content": false,
+    "merge_layout_blocks": true,
+    "markdown_ignore_labels": [
+      "number",
+      "footnote",
+      "header",
+      "header_image",
+      "footer",
+      "footer_image",
+      "aside_text"
+    ],
+    "return_layout_polygon_points": true
+  },
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "your entrepreneurial venture, for instance, reach out to other founders as opposed to just your business partner. Similarly, if you're looking for love advice, ask someone removed from the ups and downs of your relationship instead of relying only on your best friend. In all cases, I recommend describing your situation and following up with a question like: \"How would you manage this situation?\"",
+      "block_bbox": [
+        86,
+        77,
+        1125,
+        196
+      ],
+      "block_id": 0,
+      "block_order": 1,
+      "group_id": 0,
+      "block_polygon_points": [
+        [
+          86.0,
+          77.0
+        ],
+        [
+          1125.0,
+          77.0
+        ],
+        [
+          1125.0,
+          196.0
+        ],
+        [
+          86.0,
+          196.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "N) Alternately, you could also seek out hard data that illuminates your real chance of success in whatever endeavor you are contemplating. Sticking with the example of the entrepreneurial venture, numbers are your best friend. Use them to remove yourself from the love you have for this idea and consider your bum rate relative to growth plan, industry growth rates, and other factors that predict start-up success. External sources of information can help you see angles and possibilities you might not have considered.",
+      "block_bbox": [
+        68,
+        202,
+        1125,
+        352
+      ],
+      "block_id": 1,
+      "block_order": 2,
+      "group_id": 1,
+      "block_polygon_points": [
+        [
+          68.0,
+          202.0
+        ],
+        [
+          1125.0,
+          202.0
+        ],
+        [
+          1125.0,
+          352.0
+        ],
+        [
+          68.0,
+          352.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "O) When something that seemed so promising at the start doesn't turn out the way we imagined, we can become overly self-critical. Nobody likes to feel that they've made a poor decision, especially if making intelligent decisions is a quality you hold in high esteem. The most effective strategy here is to give yourself a break. Practicing self-compassion increases your resilience (韧性), emotional intelligence, compassion toward others, and can boost your performance as well as help you develop a growth mindset.",
+      "block_bbox": [
+        68,
+        358,
+        1125,
+        507
+      ],
+      "block_id": 2,
+      "block_order": 3,
+      "group_id": 2,
+      "block_polygon_points": [
+        [
+          68.0,
+          358.0
+        ],
+        [
+          1125.0,
+          358.0
+        ],
+        [
+          1125.0,
+          507.0
+        ],
+        [
+          68.0,
+          507.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "P) Instead of deliberating and criticizing yourself, focus instead on what you can learn from this situation. For example, Ryan recognized she had developed various new skills and leadership capabilities from leading the design project. And despite ultimately deciding to drop it, she was still happy she had tried and grateful for what the experience taught her.",
+      "block_bbox": [
+        67,
+        513,
+        1124,
+        603
+      ],
+      "block_id": 3,
+      "block_order": 4,
+      "group_id": 3,
+      "block_polygon_points": [
+        [
+          67.0,
+          513.0
+        ],
+        [
+          1124.0,
+          513.0
+        ],
+        [
+          1124.0,
+          603.0
+        ],
+        [
+          67.0,
+          603.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Q) Undeniably, perseverance can help us succeed. But for your wellbeing, it's important to learn how to distinguish quitting too soon and clinging to a losing course of action. While letting go can be difficult, it will free up your time, energy, and mental space to imagine new possibilities and pursue new opportunities.",
+      "block_bbox": [
+        68,
+        608,
+        1124,
+        697
+      ],
+      "block_id": 4,
+      "block_order": 5,
+      "group_id": 4,
+      "block_polygon_points": [
+        [
+          68.0,
+          608.0
+        ],
+        [
+          1124.0,
+          608.0
+        ],
+        [
+          1124.0,
+          697.0
+        ],
+        [
+          68.0,
+          697.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "36. Feeling like they have more control over something or someone than they do, people get more committed to their pursuit when they should give up.",
+      "block_bbox": [
+        68,
+        732,
+        1124,
+        788
+      ],
+      "block_id": 5,
+      "block_order": 6,
+      "group_id": 5,
+      "block_polygon_points": [
+        [
+          68.0,
+          732.0
+        ],
+        [
+          1124.0,
+          732.0
+        ],
+        [
+          1124.0,
+          788.0
+        ],
+        [
+          68.0,
+          788.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "37. If you regard yourself as one who never quits, you may end up trapped in your course of action.",
+      "block_bbox": [
+        66,
+        793,
+        912,
+        820
+      ],
+      "block_id": 6,
+      "block_order": 7,
+      "group_id": 6,
+      "block_polygon_points": [
+        [
+          66.0,
+          793.0
+        ],
+        [
+          912.0,
+          793.0
+        ],
+        [
+          912.0,
+          820.0
+        ],
+        [
+          66.0,
+          820.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "38. One of the author's clients found it hard to give up a design project, in which she had put in a lot of time and effort.",
+      "block_bbox": [
+        67,
+        825,
+        1076,
+        851
+      ],
+      "block_id": 7,
+      "block_order": 8,
+      "group_id": 7,
+      "block_polygon_points": [
+        [
+          67.0,
+          825.0
+        ],
+        [
+          1076.0,
+          825.0
+        ],
+        [
+          1076.0,
+          851.0
+        ],
+        [
+          67.0,
+          851.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "39. The author suggests that one should direct their thoughts to the gains of quitting timely so as to move on.",
+      "block_bbox": [
+        66,
+        857,
+        989,
+        881
+      ],
+      "block_id": 8,
+      "block_order": 9,
+      "group_id": 8,
+      "block_polygon_points": [
+        [
+          66.0,
+          857.0
+        ],
+        [
+          989.0,
+          857.0
+        ],
+        [
+          989.0,
+          881.0
+        ],
+        [
+          66.0,
+          881.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "40. When making a decision, you'd better ask for opinions of those who have less stake in your decision.",
+      "block_bbox": [
+        66,
+        888,
+        955,
+        913
+      ],
+      "block_id": 9,
+      "block_order": 10,
+      "group_id": 9,
+      "block_polygon_points": [
+        [
+          66.0,
+          888.0
+        ],
+        [
+          955.0,
+          888.0
+        ],
+        [
+          955.0,
+          913.0
+        ],
+        [
+          66.0,
+          913.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "41. For people associating their identity with their commitments, quitting can feel like their identity is threatened.",
+      "block_bbox": [
+        66,
+        919,
+        1028,
+        945
+      ],
+      "block_id": 10,
+      "block_order": 11,
+      "group_id": 10,
+      "block_polygon_points": [
+        [
+          66.0,
+          919.0
+        ],
+        [
+          1028.0,
+          919.0
+        ],
+        [
+          1028.0,
+          945.0
+        ],
+        [
+          66.0,
+          945.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "42. People who regard highly the quality of making wise decisions do not feel good when they make a bad one.",
+      "block_bbox": [
+        66,
+        951,
+        1014,
+        976
+      ],
+      "block_id": 11,
+      "block_order": 12,
+      "group_id": 11,
+      "block_polygon_points": [
+        [
+          66.0,
+          951.0
+        ],
+        [
+          1014.0,
+          951.0
+        ],
+        [
+          1014.0,
+          976.0
+        ],
+        [
+          66.0,
+          976.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "43. The wisest leaders learn to distinguish between giving up too soon and sticking with something irrationally.",
+      "block_bbox": [
+        66,
+        982,
+        1010,
+        1007
+      ],
+      "block_id": 12,
+      "block_order": 13,
+      "group_id": 12,
+      "block_polygon_points": [
+        [
+          66.0,
+          982.0
+        ],
+        [
+          1010.0,
+          982.0
+        ],
+        [
+          1010.0,
+          1007.0
+        ],
+        [
+          66.0,
+          1007.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "44. When people are thinking of an endeavor, they should dig out reliable data that tells them how likely they are to succeed.",
+      "block_bbox": [
+        66,
+        1013,
+        1121,
+        1039
+      ],
+      "block_id": 13,
+      "block_order": 14,
+      "group_id": 13,
+      "block_polygon_points": [
+        [
+          66.0,
+          1013.0
+        ],
+        [
+          1121.0,
+          1013.0
+        ],
+        [
+          1121.0,
+          1039.0
+        ],
+        [
+          66.0,
+          1039.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "45. Having a clear view of what's in your control and what's not is vital to making a good decision regarding whether to give up or stick it out.",
+      "block_bbox": [
+        67,
+        1045,
+        1123,
+        1101
+      ],
+      "block_id": 14,
+      "block_order": 15,
+      "group_id": 14,
+      "block_polygon_points": [
+        [
+          67.0,
+          1045.0
+        ],
+        [
+          1123.0,
+          1045.0
+        ],
+        [
+          1123.0,
+          1101.0
+        ],
+        [
+          67.0,
+          1101.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Section C",
+      "block_bbox": [
+        68,
+        1106,
+        161,
+        1130
+      ],
+      "block_id": 15,
+      "block_order": 16,
+      "group_id": 15,
+      "block_polygon_points": [
+        [
+          68.0,
+          1106.0
+        ],
+        [
+          160.0,
+          1106.0
+        ],
+        [
+          160.0,
+          1129.0
+        ],
+        [
+          68.0,
+          1129.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Directions: There are 2 passages in this section. Each passage is followed by some questions or unfinished statements. For each of them there are four choices marked A), B), C), and D). You should decide on the best choice and mark the corresponding letter on Answer Sheet 2 with a single line through the centre.",
+      "block_bbox": [
+        66,
+        1137,
+        1123,
+        1227
+      ],
+      "block_id": 16,
+      "block_order": 17,
+      "group_id": 16,
+      "block_polygon_points": [
+        [
+          66.0,
+          1137.0
+        ],
+        [
+          1123.0,
+          1137.0
+        ],
+        [
+          1123.0,
+          1227.0
+        ],
+        [
+          66.0,
+          1227.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Passage One",
+      "block_bbox": [
+        68,
+        1232,
+        190,
+        1256
+      ],
+      "block_id": 17,
+      "block_order": 18,
+      "group_id": 17,
+      "block_polygon_points": [
+        [
+          68.0,
+          1232.0
+        ],
+        [
+          190.0,
+          1232.0
+        ],
+        [
+          190.0,
+          1256.0
+        ],
+        [
+          68.0,
+          1256.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Questions 46 to 50 are based on the following passage.",
+      "block_bbox": [
+        67,
+        1263,
+        559,
+        1288
+      ],
+      "block_id": 18,
+      "block_order": 19,
+      "group_id": 18,
+      "block_polygon_points": [
+        [
+          67.0,
+          1263.0
+        ],
+        [
+          559.0,
+          1263.0
+        ],
+        [
+          559.0,
+          1288.0
+        ],
+        [
+          67.0,
+          1288.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "As interdependent beings we cannot thrive independent of others. We like to work with people who are like-minded, with whom we share a common interest, or who also believe in a cause we are serious about. This is evident in how we have organised ourselves into various collective groups such as nations, regions, communities, organisations, and families.",
+      "block_bbox": [
+        65,
+        1293,
+        1124,
+        1383
+      ],
+      "block_id": 19,
+      "block_order": 20,
+      "group_id": 19,
+      "block_polygon_points": [
+        [
+          65.0,
+          1293.0
+        ],
+        [
+          1124.0,
+          1293.0
+        ],
+        [
+          1124.0,
+          1383.0
+        ],
+        [
+          65.0,
+          1383.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Does the group you belong to have a strong collective consciousness or shared beliefs? Is there interdependence among its members? Do you consider this group a significant part of your existence? If your answers are affirmative, then you are experiencing a micro version of solidarity.",
+      "block_bbox": [
+        66,
+        1388,
+        1123,
+        1475
+      ],
+      "block_id": 20,
+      "block_order": 21,
+      "group_id": 20,
+      "block_polygon_points": [
+        [
+          66.0,
+          1388.0
+        ],
+        [
+          1123.0,
+          1388.0
+        ],
+        [
+          1123.0,
+          1475.0
+        ],
+        [
+          66.0,
+          1475.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "What is solidarity? Its simplest definition in the dictionary is: “…a unifying opinion, feeling, purpose or interest among a group of people.”",
+      "block_bbox": [
+        66,
+        1482,
+        1123,
+        1539
+      ],
+      "block_id": 21,
+      "block_order": 22,
+      "group_id": 21,
+      "block_polygon_points": [
+        [
+          66.0,
+          1482.0
+        ],
+        [
+          1123.0,
+          1482.0
+        ],
+        [
+          1123.0,
+          1539.0
+        ],
+        [
+          66.0,
+          1539.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "In this increasingly diverse society we live in, solidarity takes on a complex and multifaceted character as it forms bonds of interdependence among unique individuals living in a fast-changing environment and working within a complex division",
+      "block_bbox": [
+        66,
+        1543,
+        1125,
+        1602
+      ],
+      "block_id": 22,
+      "block_order": 23,
+      "group_id": 22,
+      "block_polygon_points": [
+        [
+          66.0,
+          1543.0
+        ],
+        [
+          1125.0,
+          1543.0
+        ],
+        [
+          1125.0,
+          1602.0
+        ],
+        [
+          66.0,
+          1602.0
+        ]
+      ]
+    }
+  ],
+  "layout_det_res": {
+    "boxes": [
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9506753087043762,
+        "coordinate": [
+          86,
+          77,
+          1125,
+          196
+        ],
+        "order": 1,
+        "polygon_points": [
+          [
+            86.0,
+            77.0
+          ],
+          [
+            1125.0,
+            77.0
+          ],
+          [
+            1125.0,
+            196.0
+          ],
+          [
+            86.0,
+            196.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9581706523895264,
+        "coordinate": [
+          68,
+          202,
+          1125,
+          352
+        ],
+        "order": 2,
+        "polygon_points": [
+          [
+            68.0,
+            202.0
+          ],
+          [
+            1125.0,
+            202.0
+          ],
+          [
+            1125.0,
+            352.0
+          ],
+          [
+            68.0,
+            352.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9515979290008545,
+        "coordinate": [
+          68,
+          358,
+          1125,
+          507
+        ],
+        "order": 3,
+        "polygon_points": [
+          [
+            68.0,
+            358.0
+          ],
+          [
+            1125.0,
+            358.0
+          ],
+          [
+            1125.0,
+            507.0
+          ],
+          [
+            68.0,
+            507.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.940460741519928,
+        "coordinate": [
+          67,
+          513,
+          1124,
+          603
+        ],
+        "order": 4,
+        "polygon_points": [
+          [
+            67.0,
+            513.0
+          ],
+          [
+            1124.0,
+            513.0
+          ],
+          [
+            1124.0,
+            603.0
+          ],
+          [
+            67.0,
+            603.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.932644784450531,
+        "coordinate": [
+          68,
+          608,
+          1124,
+          697
+        ],
+        "order": 5,
+        "polygon_points": [
+          [
+            68.0,
+            608.0
+          ],
+          [
+            1124.0,
+            608.0
+          ],
+          [
+            1124.0,
+            697.0
+          ],
+          [
+            68.0,
+            697.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8946213126182556,
+        "coordinate": [
+          68,
+          732,
+          1124,
+          788
+        ],
+        "order": 6,
+        "polygon_points": [
+          [
+            68.0,
+            732.0
+          ],
+          [
+            1124.0,
+            732.0
+          ],
+          [
+            1124.0,
+            788.0
+          ],
+          [
+            68.0,
+            788.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8352136611938477,
+        "coordinate": [
+          66,
+          793,
+          912,
+          820
+        ],
+        "order": 7,
+        "polygon_points": [
+          [
+            66.0,
+            793.0
+          ],
+          [
+            912.0,
+            793.0
+          ],
+          [
+            912.0,
+            820.0
+          ],
+          [
+            66.0,
+            820.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8247662782669067,
+        "coordinate": [
+          67,
+          825,
+          1076,
+          851
+        ],
+        "order": 8,
+        "polygon_points": [
+          [
+            67.0,
+            825.0
+          ],
+          [
+            1076.0,
+            825.0
+          ],
+          [
+            1076.0,
+            851.0
+          ],
+          [
+            67.0,
+            851.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8360405564308167,
+        "coordinate": [
+          66,
+          857,
+          989,
+          881
+        ],
+        "order": 9,
+        "polygon_points": [
+          [
+            66.0,
+            857.0
+          ],
+          [
+            989.0,
+            857.0
+          ],
+          [
+            989.0,
+            881.0
+          ],
+          [
+            66.0,
+            881.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8297315239906311,
+        "coordinate": [
+          66,
+          888,
+          955,
+          913
+        ],
+        "order": 10,
+        "polygon_points": [
+          [
+            66.0,
+            888.0
+          ],
+          [
+            955.0,
+            888.0
+          ],
+          [
+            955.0,
+            913.0
+          ],
+          [
+            66.0,
+            913.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8386273384094238,
+        "coordinate": [
+          66,
+          919,
+          1028,
+          945
+        ],
+        "order": 11,
+        "polygon_points": [
+          [
+            66.0,
+            919.0
+          ],
+          [
+            1028.0,
+            919.0
+          ],
+          [
+            1028.0,
+            945.0
+          ],
+          [
+            66.0,
+            945.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8002895712852478,
+        "coordinate": [
+          66,
+          951,
+          1014,
+          976
+        ],
+        "order": 12,
+        "polygon_points": [
+          [
+            66.0,
+            951.0
+          ],
+          [
+            1014.0,
+            951.0
+          ],
+          [
+            1014.0,
+            976.0
+          ],
+          [
+            66.0,
+            976.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8328068852424622,
+        "coordinate": [
+          66,
+          982,
+          1010,
+          1007
+        ],
+        "order": 13,
+        "polygon_points": [
+          [
+            66.0,
+            982.0
+          ],
+          [
+            1010.0,
+            982.0
+          ],
+          [
+            1010.0,
+            1007.0
+          ],
+          [
+            66.0,
+            1007.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8397248983383179,
+        "coordinate": [
+          66,
+          1013,
+          1121,
+          1039
+        ],
+        "order": 14,
+        "polygon_points": [
+          [
+            66.0,
+            1013.0
+          ],
+          [
+            1121.0,
+            1013.0
+          ],
+          [
+            1121.0,
+            1039.0
+          ],
+          [
+            66.0,
+            1039.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8919294476509094,
+        "coordinate": [
+          67,
+          1045,
+          1123,
+          1101
+        ],
+        "order": 15,
+        "polygon_points": [
+          [
+            67.0,
+            1045.0
+          ],
+          [
+            1123.0,
+            1045.0
+          ],
+          [
+            1123.0,
+            1101.0
+          ],
+          [
+            67.0,
+            1101.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.8196383714675903,
+        "coordinate": [
+          68,
+          1106,
+          161,
+          1130
+        ],
+        "order": 16,
+        "polygon_points": [
+          [
+            68.0,
+            1106.0
+          ],
+          [
+            160.0,
+            1106.0
+          ],
+          [
+            160.0,
+            1129.0
+          ],
+          [
+            68.0,
+            1129.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9335824251174927,
+        "coordinate": [
+          66,
+          1137,
+          1123,
+          1227
+        ],
+        "order": 17,
+        "polygon_points": [
+          [
+            66.0,
+            1137.0
+          ],
+          [
+            1123.0,
+            1137.0
+          ],
+          [
+            1123.0,
+            1227.0
+          ],
+          [
+            66.0,
+            1227.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.7984420657157898,
+        "coordinate": [
+          68,
+          1232,
+          190,
+          1256
+        ],
+        "order": 18,
+        "polygon_points": [
+          [
+            68.0,
+            1232.0
+          ],
+          [
+            190.0,
+            1232.0
+          ],
+          [
+            190.0,
+            1256.0
+          ],
+          [
+            68.0,
+            1256.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.4863964319229126,
+        "coordinate": [
+          67,
+          1263,
+          559,
+          1288
+        ],
+        "order": 19,
+        "polygon_points": [
+          [
+            67.0,
+            1263.0
+          ],
+          [
+            559.0,
+            1263.0
+          ],
+          [
+            559.0,
+            1288.0
+          ],
+          [
+            67.0,
+            1288.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9452435374259949,
+        "coordinate": [
+          65,
+          1293,
+          1124,
+          1383
+        ],
+        "order": 20,
+        "polygon_points": [
+          [
+            65.0,
+            1293.0
+          ],
+          [
+            1124.0,
+            1293.0
+          ],
+          [
+            1124.0,
+            1383.0
+          ],
+          [
+            65.0,
+            1383.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9442377090454102,
+        "coordinate": [
+          66,
+          1388,
+          1123,
+          1475
+        ],
+        "order": 21,
+        "polygon_points": [
+          [
+            66.0,
+            1388.0
+          ],
+          [
+            1123.0,
+            1388.0
+          ],
+          [
+            1123.0,
+            1475.0
+          ],
+          [
+            66.0,
+            1475.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9147293567657471,
+        "coordinate": [
+          66,
+          1482,
+          1123,
+          1539
+        ],
+        "order": 22,
+        "polygon_points": [
+          [
+            66.0,
+            1482.0
+          ],
+          [
+            1123.0,
+            1482.0
+          ],
+          [
+            1123.0,
+            1539.0
+          ],
+          [
+            66.0,
+            1539.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.921694815158844,
+        "coordinate": [
+          66,
+          1543,
+          1125,
+          1602
+        ],
+        "order": 23,
+        "polygon_points": [
+          [
+            66.0,
+            1543.0
+          ],
+          [
+            1125.0,
+            1543.0
+          ],
+          [
+            1125.0,
+            1602.0
+          ],
+          [
+            66.0,
+            1602.0
+          ]
+        ]
+      }
+    ]
+  }
+}

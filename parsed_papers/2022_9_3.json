@@ -1,0 +1,10 @@
+{
+  "year": 2022,
+  "month": 9,
+  "exam_set": 3,
+  "writing": "It is now widely accepted that mutual trust and openness is the key to promoting cooperation.",
+  "translation": "中央电视台总部大楼位于北京市朝阳区，总建筑面积约55万平方米。主楼由两座塔楼组成，因其独特的造型，成为这座城市的一个热门景点，每天都吸引众多游客前来参观。大楼的创新结构是中外建筑师长期合作的成果，不仅体现了环保意识，而且大大节约了建筑材料。中央电视台总部设有一条穿过大楼的专用通道，向公众展示各个工作室以及中央电视台的历史。在那里，参观者还可以看到故宫和北京其他地方的壮观景色。",
+  "translation_sample": "The CCTV Headquarters building is in Beijing's Chaoyang District and has a total floor area of about 550,000 square meters. Its main structure consists of two towers. Thanks to its unusual shape, it has become a popular city attraction, drawing many visitors every day. The building's innovative structure is the result of long-term cooperation between Chinese and foreign architects. It reflects concern for the environment and substantially reduces the amount of building materials required. A dedicated passage through the building gives the public a view of its studios and an introduction to CCTV's history. Visitors can also enjoy spectacular views of the Forbidden City and other parts of Beijing.",
+  "translation_analysis": "1. **“位于朝阳区，总建筑面积……”** → `The CCTV Headquarters building is in... and has a total floor area...` 同一建筑用 `is` 写地点、`has` 写建筑面积；`floor area` 不误作占地面积。\n2. **“主楼由两座塔楼组成。”** → `Its main structure consists of two towers.` `consists of` 直接交代构成，代词 `Its` 回指总部大楼。\n3. **“独特造型使其成为景点……每天吸引游客。”** → `Thanks to its unusual shape, it has become..., drawing...` 原因前置，主句结果用现在完成时；`drawing` 是随之而来的游客流，不是“造型”单独作主语。\n4. **“创新结构是中外建筑师长期合作的成果。”** → `The building's innovative structure is the result of...` 明确“结构”而非整座建筑是合作成果；`between Chinese and foreign architects` 表合作双方。\n5. **“不仅体现环保意识，而且节约材料。”** → `It reflects... and substantially reduces...` 两个具体作用共用主语 `It`，此处应回指创新结构；`reduces the amount... required` 表节省建材。\n6. **“专用通道穿过大楼，展示工作室和历史。”** → `A dedicated passage through the building gives...` 选“通道”作主语，`through the building` 后置说明路线；`a view of... and an introduction to...` 区分可看的工作室与可了解的历史。\n7. **“在那里……看到故宫等处景色。”** → `Visitors can also enjoy spectacular views...` `also` 衔接上一句通道体验；`views of` 接故宫和北京其他地方。\n\n## 2023 年：5 篇",
+  "translation_needs_review": false
+}

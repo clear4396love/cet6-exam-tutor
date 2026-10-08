@@ -1,0 +1,5 @@
+{
+  "pages": 12,
+  "model": "PaddleOCR-VL-1.6",
+  "source_pdf": "CET6_2021年12月_第2套_真题.pdf"
+}

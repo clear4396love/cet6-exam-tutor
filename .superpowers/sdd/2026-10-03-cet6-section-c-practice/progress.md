@@ -1,0 +1,8 @@
+# SDD ledger — plan: D:\vscode\python\ai_agent\langchain\exam-tutor\docs\superpowers\plans\2026-10-03-cet6-section-c-practice.md
+
+Pre-flight: Task 1 safe view and grading feed Task 2 feedback and Task 3 UI/scenario; Section C item shape is `{question_number, passage_text, stem, options}` and grading shape is `{submitted, answer, correct}`.
+Ruling: The project is untracked under a parent repository and the sandbox cannot run its parent `.venv` Python; keep work in the current checkout and use user-observed pytest RED/GREEN outputs rather than creating an isolated worktree or claiming local runs. Cost if wrong: final verification must be repeated in a normal local environment before integration.
+Task 1: complete; user-observed RED 2 failed/1 passed; GREEN 3 passed/18 deselected with one existing deprecation warning.
+Task 2: user-observed RED 7 failed/19 passed; verified by full suite on 2026-10-04 (132 passed, 1 existing deprecation warning).
+Task 3: user-observed RED 2 failed/13 passed (missing Section C display and scenario id 4); verified by full suite on 2026-10-04 (132 passed, 1 existing deprecation warning) and offline practice scenario (19/19 steps passed).
+Browser follow-up on 2026-10-04: Chrome exposed stale A selection after grading question 46 then loading 51. Added AppTest assertion, observed RED 1 failed, changed the selection widget key on each 出题, observed GREEN 1 passed and full suite 132 passed. Final Chrome smoke observed question 46 answer B and Chinese feedback, then question 51 answer hidden and selection empty. The browser remained served at 127.0.0.1:8501 (health HTTP 200); disposable Chrome profiles and one-off smoke script were removed.

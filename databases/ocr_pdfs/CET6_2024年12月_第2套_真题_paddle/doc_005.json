@@ -1,0 +1,1006 @@
+{
+  "page_count": null,
+  "width": 1191,
+  "height": 1684,
+  "model_settings": {
+    "use_doc_preprocessor": false,
+    "use_layout_detection": true,
+    "use_chart_recognition": false,
+    "use_seal_recognition": false,
+    "use_ocr_for_image_block": false,
+    "format_block_content": false,
+    "merge_layout_blocks": true,
+    "markdown_ignore_labels": [
+      "number",
+      "footnote",
+      "header",
+      "header_image",
+      "footer",
+      "footer_image",
+      "aside_text"
+    ],
+    "return_layout_polygon_points": true
+  },
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "countryside, visiting intermittently for a sample of a supposedly simple life. The side-effect of this is that house prices are pushed up due to increased demand, leaving them unaffordable for local people. A solution has yet to be found for this challenge, for market forces are further forcing residents out of the countryside. For those who believe in rural preservation, this is deplorable.",
+      "block_bbox": [
+        66,
+        77,
+        1124,
+        196
+      ],
+      "block_id": 0,
+      "block_order": 1,
+      "group_id": 0,
+      "block_polygon_points": [
+        [
+          66.0,
+          77.0
+        ],
+        [
+          1124.0,
+          77.0
+        ],
+        [
+          1124.0,
+          196.0
+        ],
+        [
+          66.0,
+          196.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Whilst an idealised view of the countryside is common, the reality is that rural life has continuously evolved. Industrialisation brought an increase in divisions of labour, changing social links between rural people. The internet has introduced once foreign cultures into the countryside. Improved travel connections and affordability have made the world more accessible, creating a “global village”. Considering these changes, surely an evolving countryside is inevitable.",
+      "block_bbox": [
+        67,
+        202,
+        1124,
+        321
+      ],
+      "block_id": 1,
+      "block_order": 2,
+      "group_id": 1,
+      "block_polygon_points": [
+        [
+          67.0,
+          202.0
+        ],
+        [
+          1124.0,
+          202.0
+        ],
+        [
+          1124.0,
+          321.0
+        ],
+        [
+          67.0,
+          321.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Perhaps the countryside should also prepare itself for massive population increases in the future. With cities across the world growing rapidly, how will the current urban generation respond to the inevitable social changes of mass urbanization? Will the longing for a simpler life become stronger, fueling a rural renaissance?",
+      "block_bbox": [
+        66,
+        327,
+        1124,
+        415
+      ],
+      "block_id": 2,
+      "block_order": 3,
+      "group_id": 2,
+      "block_polygon_points": [
+        [
+          66.0,
+          327.0
+        ],
+        [
+          1124.0,
+          327.0
+        ],
+        [
+          1124.0,
+          415.0
+        ],
+        [
+          66.0,
+          415.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "As the world continues to urbanise, the voices calling for rural preservation may well grow louder. But change is inevitable, we know that the world is going to see new cities emerging from the dust and current cities growing into megacities, but the future of the countryside is less clear.",
+      "block_bbox": [
+        66,
+        422,
+        1124,
+        507
+      ],
+      "block_id": 3,
+      "block_order": 4,
+      "group_id": 3,
+      "block_polygon_points": [
+        [
+          66.0,
+          422.0
+        ],
+        [
+          1124.0,
+          422.0
+        ],
+        [
+          1124.0,
+          507.0
+        ],
+        [
+          66.0,
+          507.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "46. What has become of the rural areas nowadays?\nA) They are becoming somewhat deserted. C) They are closely-knit communities.\nB) They are being increasingly urbanised. D) They are haunted by conservatism.",
+      "block_bbox": [
+        68,
+        544,
+        944,
+        633
+      ],
+      "block_id": 4,
+      "block_order": 5,
+      "group_id": 4,
+      "block_polygon_points": [
+        [
+          68.0,
+          544.0
+        ],
+        [
+          944.0,
+          544.0
+        ],
+        [
+          944.0,
+          633.0
+        ],
+        [
+          68.0,
+          633.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "47. What does the author think of the rural lifestyle\nA) It is unlikely to survive given the on-going changes.\nB) It is less energy-efficient compared to that in cities.\nC) It is highly dependent upon heavy automobiles.\nD) It is a choice more affluent people will endorse.",
+      "block_bbox": [
+        69,
+        638,
+        561,
+        789
+      ],
+      "block_id": 5,
+      "block_order": 6,
+      "group_id": 5,
+      "block_polygon_points": [
+        [
+          69.0,
+          638.0
+        ],
+        [
+          561.0,
+          638.0
+        ],
+        [
+          561.0,
+          789.0
+        ],
+        [
+          69.0,
+          789.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "48. What does the author think of rich urban residents buying a second home in the countryside?\nA) It is bound to mar the traditional rural life.\nB) It adversely impacts rural social stability.\nC) It hinders rural economies' revitalisation.\nD) It is detrimental to rural preservation.",
+      "block_bbox": [
+        69,
+        794,
+        885,
+        945
+      ],
+      "block_id": 6,
+      "block_order": 7,
+      "group_id": 6,
+      "block_polygon_points": [
+        [
+          69.0,
+          794.0
+        ],
+        [
+          885.0,
+          794.0
+        ],
+        [
+          885.0,
+          945.0
+        ],
+        [
+          69.0,
+          945.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "49. What do we learn about the countryside with industrialisation and technological advances?\nA) It is destined to change gradually. C) It is likely to embrace foreign cultures.\nB) It will present an idealised way of life. D) It will become increasingly diversified.",
+      "block_bbox": [
+        68,
+        951,
+        976,
+        1039
+      ],
+      "block_id": 7,
+      "block_order": 8,
+      "group_id": 7,
+      "block_polygon_points": [
+        [
+          68.0,
+          951.0
+        ],
+        [
+          976.0,
+          951.0
+        ],
+        [
+          976.0,
+          1039.0
+        ],
+        [
+          68.0,
+          1039.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "50. What does the author think of the future of the countryside compared with cities?\nA) It is going to be harder for the locals. C) It is less likely to stay static.\nB) It is going to resemble that of cities. D) It is less easy to envisage.",
+      "block_bbox": [
+        68,
+        1044,
+        887,
+        1132
+      ],
+      "block_id": 8,
+      "block_order": 9,
+      "group_id": 8,
+      "block_polygon_points": [
+        [
+          68.0,
+          1044.0
+        ],
+        [
+          887.0,
+          1044.0
+        ],
+        [
+          887.0,
+          1132.0
+        ],
+        [
+          68.0,
+          1132.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Passage Two",
+      "block_bbox": [
+        69,
+        1138,
+        189,
+        1161
+      ],
+      "block_id": 9,
+      "block_order": 10,
+      "group_id": 9,
+      "block_polygon_points": [
+        [
+          69.0,
+          1138.0
+        ],
+        [
+          188.0,
+          1138.0
+        ],
+        [
+          188.0,
+          1160.0
+        ],
+        [
+          69.0,
+          1160.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Questions 51 to 55 are based on the following passage.",
+      "block_bbox": [
+        68,
+        1171,
+        558,
+        1194
+      ],
+      "block_id": 10,
+      "block_order": 11,
+      "group_id": 10,
+      "block_polygon_points": [
+        [
+          68.0,
+          1171.0
+        ],
+        [
+          558.0,
+          1171.0
+        ],
+        [
+          558.0,
+          1194.0
+        ],
+        [
+          68.0,
+          1194.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Statements, like “beauty is in the eye of the beholder (观看者)”, are rarely questioned. They’ve become so embedded in our consciousness that people think it’s absurd to think otherwise. It might be useful, however, to at least push back on this assumption because people evaluate environment, situations, and people aesthetically. We may find that we still believe it is correct, but we may also find that there is a lot more to the situation than you suppose.",
+      "block_bbox": [
+        66,
+        1201,
+        1123,
+        1319
+      ],
+      "block_id": 11,
+      "block_order": 12,
+      "group_id": 11,
+      "block_polygon_points": [
+        [
+          66.0,
+          1201.0
+        ],
+        [
+          1123.0,
+          1201.0
+        ],
+        [
+          1123.0,
+          1319.0
+        ],
+        [
+          66.0,
+          1319.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "A recent study exploring aesthetic taste was published in Cognition. The results from this study show that people agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, or human-made objects.",
+      "block_bbox": [
+        67,
+        1326,
+        1123,
+        1382
+      ],
+      "block_id": 12,
+      "block_order": 13,
+      "group_id": 12,
+      "block_polygon_points": [
+        [
+          67.0,
+          1326.0
+        ],
+        [
+          1123.0,
+          1326.0
+        ],
+        [
+          1123.0,
+          1382.0
+        ],
+        [
+          67.0,
+          1382.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "The study found that shared taste was most common for faces and natural landscapes, but least common among works of architecture and art. The hypothesis is the commonly pleasing features, like proportion or symmetry, are at work.",
+      "block_bbox": [
+        68,
+        1389,
+        1123,
+        1444
+      ],
+      "block_id": 13,
+      "block_order": 14,
+      "group_id": 13,
+      "block_polygon_points": [
+        [
+          68.0,
+          1389.0
+        ],
+        [
+          1123.0,
+          1389.0
+        ],
+        [
+          1123.0,
+          1444.0
+        ],
+        [
+          68.0,
+          1444.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Preferences for natural scenes might be learned through life experiences. Factors like habitability, safety, and openness might be preferred as people develop. Some of the details of landscapes change, but the basics are more common, e.g., water, open spaces, and signs of care.",
+      "block_bbox": [
+        66,
+        1450,
+        1123,
+        1539
+      ],
+      "block_id": 14,
+      "block_order": 15,
+      "group_id": 14,
+      "block_polygon_points": [
+        [
+          66.0,
+          1450.0
+        ],
+        [
+          1123.0,
+          1450.0
+        ],
+        [
+          1123.0,
+          1539.0
+        ],
+        [
+          66.0,
+          1539.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Art and architecture, unlike natural spaces, do not have the same level of exposure. So, people do not have the same level of shared taste.",
+      "block_bbox": [
+        66,
+        1544,
+        1124,
+        1600
+      ],
+      "block_id": 15,
+      "block_order": 16,
+      "group_id": 15,
+      "block_polygon_points": [
+        [
+          66.0,
+          1544.0
+        ],
+        [
+          1124.0,
+          1544.0
+        ],
+        [
+          1124.0,
+          1600.0
+        ],
+        [
+          66.0,
+          1600.0
+        ]
+      ]
+    }
+  ],
+  "layout_det_res": {
+    "boxes": [
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9494908452033997,
+        "coordinate": [
+          66,
+          77,
+          1124,
+          196
+        ],
+        "order": 1,
+        "polygon_points": [
+          [
+            66.0,
+            77.0
+          ],
+          [
+            1124.0,
+            77.0
+          ],
+          [
+            1124.0,
+            196.0
+          ],
+          [
+            66.0,
+            196.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9535007476806641,
+        "coordinate": [
+          67,
+          202,
+          1124,
+          321
+        ],
+        "order": 2,
+        "polygon_points": [
+          [
+            67.0,
+            202.0
+          ],
+          [
+            1124.0,
+            202.0
+          ],
+          [
+            1124.0,
+            321.0
+          ],
+          [
+            67.0,
+            321.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9339581727981567,
+        "coordinate": [
+          66,
+          327,
+          1124,
+          415
+        ],
+        "order": 3,
+        "polygon_points": [
+          [
+            66.0,
+            327.0
+          ],
+          [
+            1124.0,
+            327.0
+          ],
+          [
+            1124.0,
+            415.0
+          ],
+          [
+            66.0,
+            415.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9292892813682556,
+        "coordinate": [
+          66,
+          422,
+          1124,
+          507
+        ],
+        "order": 4,
+        "polygon_points": [
+          [
+            66.0,
+            422.0
+          ],
+          [
+            1124.0,
+            422.0
+          ],
+          [
+            1124.0,
+            507.0
+          ],
+          [
+            66.0,
+            507.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9315850734710693,
+        "coordinate": [
+          68,
+          544,
+          944,
+          633
+        ],
+        "order": 5,
+        "polygon_points": [
+          [
+            68.0,
+            544.0
+          ],
+          [
+            944.0,
+            544.0
+          ],
+          [
+            944.0,
+            633.0
+          ],
+          [
+            68.0,
+            633.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.938001275062561,
+        "coordinate": [
+          69,
+          638,
+          561,
+          789
+        ],
+        "order": 6,
+        "polygon_points": [
+          [
+            69.0,
+            638.0
+          ],
+          [
+            561.0,
+            638.0
+          ],
+          [
+            561.0,
+            789.0
+          ],
+          [
+            69.0,
+            789.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9396272897720337,
+        "coordinate": [
+          69,
+          794,
+          885,
+          945
+        ],
+        "order": 7,
+        "polygon_points": [
+          [
+            69.0,
+            794.0
+          ],
+          [
+            885.0,
+            794.0
+          ],
+          [
+            885.0,
+            945.0
+          ],
+          [
+            69.0,
+            945.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9385398030281067,
+        "coordinate": [
+          68,
+          951,
+          976,
+          1039
+        ],
+        "order": 8,
+        "polygon_points": [
+          [
+            68.0,
+            951.0
+          ],
+          [
+            976.0,
+            951.0
+          ],
+          [
+            976.0,
+            1039.0
+          ],
+          [
+            68.0,
+            1039.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.938136875629425,
+        "coordinate": [
+          68,
+          1044,
+          887,
+          1132
+        ],
+        "order": 9,
+        "polygon_points": [
+          [
+            68.0,
+            1044.0
+          ],
+          [
+            887.0,
+            1044.0
+          ],
+          [
+            887.0,
+            1132.0
+          ],
+          [
+            68.0,
+            1132.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.8238473534584045,
+        "coordinate": [
+          69,
+          1138,
+          189,
+          1161
+        ],
+        "order": 10,
+        "polygon_points": [
+          [
+            69.0,
+            1138.0
+          ],
+          [
+            188.0,
+            1138.0
+          ],
+          [
+            188.0,
+            1160.0
+          ],
+          [
+            69.0,
+            1160.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.6482551097869873,
+        "coordinate": [
+          68,
+          1171,
+          558,
+          1194
+        ],
+        "order": 11,
+        "polygon_points": [
+          [
+            68.0,
+            1171.0
+          ],
+          [
+            558.0,
+            1171.0
+          ],
+          [
+            558.0,
+            1194.0
+          ],
+          [
+            68.0,
+            1194.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9491802453994751,
+        "coordinate": [
+          66,
+          1201,
+          1123,
+          1319
+        ],
+        "order": 12,
+        "polygon_points": [
+          [
+            66.0,
+            1201.0
+          ],
+          [
+            1123.0,
+            1201.0
+          ],
+          [
+            1123.0,
+            1319.0
+          ],
+          [
+            66.0,
+            1319.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9268026947975159,
+        "coordinate": [
+          67,
+          1326,
+          1123,
+          1382
+        ],
+        "order": 13,
+        "polygon_points": [
+          [
+            67.0,
+            1326.0
+          ],
+          [
+            1123.0,
+            1326.0
+          ],
+          [
+            1123.0,
+            1382.0
+          ],
+          [
+            67.0,
+            1382.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9231511354446411,
+        "coordinate": [
+          68,
+          1389,
+          1123,
+          1444
+        ],
+        "order": 14,
+        "polygon_points": [
+          [
+            68.0,
+            1389.0
+          ],
+          [
+            1123.0,
+            1389.0
+          ],
+          [
+            1123.0,
+            1444.0
+          ],
+          [
+            68.0,
+            1444.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.939738929271698,
+        "coordinate": [
+          66,
+          1450,
+          1123,
+          1539
+        ],
+        "order": 15,
+        "polygon_points": [
+          [
+            66.0,
+            1450.0
+          ],
+          [
+            1123.0,
+            1450.0
+          ],
+          [
+            1123.0,
+            1539.0
+          ],
+          [
+            66.0,
+            1539.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8959553837776184,
+        "coordinate": [
+          66,
+          1544,
+          1124,
+          1600
+        ],
+        "order": 16,
+        "polygon_points": [
+          [
+            66.0,
+            1544.0
+          ],
+          [
+            1124.0,
+            1544.0
+          ],
+          [
+            1124.0,
+            1600.0
+          ],
+          [
+            66.0,
+            1600.0
+          ]
+        ]
+      }
+    ]
+  }
+}

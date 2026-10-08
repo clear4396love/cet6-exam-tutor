@@ -1,0 +1,14 @@
+[
+  {"id":"reading-explicit","prompt":"$cet6-tutor 2024年12月第1套第44题选什么？","command":"tools.cet6_skill ask","command_contains":["2024年12月第1套第44题"],"reply_pattern":"(?:答案|选)\\s*[：:]*\\s*E\\b"},
+  {"id":"reading-implicit","prompt":"请查项目缓存：2024年12月第1套第48题的题目和答案。","command":"tools.cet6_skill ask","command_contains":["2024年12月第1套第48题"],"reply_contains":["hide-and-seek"],"reply_pattern":"(?:答案|选)\\s*[：:]*\\s*A\\b"},
+  {"id":"reading-why-not-b","prompt":"$cet6-tutor 2024年12月第1套第48题为什么不选B？请用原文证据解释。","command":"tools.cet6_skill ask","command_contains":["2024年12月第1套第48题"],"reply_contains":["A","B"]},
+  {"id":"reading-missing-coordinates","prompt":"$cet6-tutor 第44题选什么？这是新对话，没有提供年份月份套数。","no_skill_command":true,"reply_contains":["年份","套"]},
+  {"id":"translation-task-hidden","prompt":"$cet6-tutor 给我2024年12月第1套翻译题，先不要展示参考译文。","command":"tools.cet6_skill task 2024 12 1 translation","forbid_command":["tools.cet6_skill reference"],"reply_contains":["北斗"],"reply_forbids":["The successful development"]},
+  {"id":"writing-task-hidden","prompt":"$cet6-tutor 给我2024年12月第1套作文题，先不要展示范文。","command":"tools.cet6_skill task 2024 12 1 writing","forbid_command":["tools.cet6_skill reference"],"reply_forbids":["Sample essay"]},
+  {"id":"reference-asks-confirmation","prompt":"$cet6-tutor 给我2024年12月第1套翻译的系统参考译文。","no_skill_command":true,"forbid_command":["tools.cet6_skill reference"],"reply_contains":["确认"],"reply_forbids":["The successful development"]},
+  {"id":"reference-confirmed","prompt":"$cet6-tutor 我确认要看2024年12月第1套翻译的系统参考译文。","command":"tools.cet6_skill reference 2024 12 1 translation --confirm","reply_contains":["Beidou"]},
+  {"id":"progress-private","prompt":"$cet6-tutor 查看我的本机作文与翻译学习进度；不要展示原稿。","command":"tools.cet6_skill progress","forbid_command":["tools.cet6_skill history"]},
+  {"id":"history-explicit","prompt":"$cet6-tutor 查看本机保存过的翻译原稿历史。","command":"tools.cet6_skill history --section translation"},
+  {"id":"cache-miss","prompt":"$cet6-tutor 2010年12月第1套第44题选什么？找不到卷子就直说，不要猜。","command":"tools.cet6_skill ask","command_contains":["2010年12月第1套第44题"],"reply_forbids":["答案：A","答案：B","答案：C","答案：D"]},
+  {"id":"negative-math","prompt":"请计算 17 乘以 19，只回复计算结果。","no_skill_command":true,"reply_contains":["323"]}
+]

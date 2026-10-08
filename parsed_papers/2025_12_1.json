@@ -1,0 +1,255 @@
+{
+  "year": 2025,
+  "month": 12,
+  "exam_set": 1,
+  "paragraphs": {
+    "A": "Like most chefs, Flippy is not afraid of hard work. Since last summer, that has meant 11am until 7pm shifts at Caliburger in Pasadena, California, as well as short assignments at Chick-N-Tots at Dodger Stadium in Los Angeles. These are long hours of repetitive work, where the boss demands absolute consistency. But you won't hear Flippy complain or say anything, in fact. For Flippy is a robot — a cloud-connected mechanical arm with 3D thermal scanners for eyes — that can flip burgers or fry 80 baskets of food an hour, monitor that food and even clean up afterwards.",
+    "B": "Flippy was created by Miso Robotics, part of the Cali Group, which is described by its CEO, John Miller, as: “A technology company that happens to sell cheeseburgers.” Cali creates new machines that it road-tests in its Caliburger restaurants across the world, into which Flippy will be deployed this year. And Flippy is not alone. Also in California, Bear Robotics has developed a self-guiding robot, Penny, which has so far served 40,000 diners.",
+    "C": "Ten years ago, robot-chefs and waiters were pure science fiction. Today, they are a reality, and at prices that make them a plausible investment. From May, Penny will be shipped on a subscription basis that offers “an immediate return”, says Bear Robotics’ chief operating officer, Juan Higueros. Flippy will cost a reported $60,000 to $100,000. Fully automated burger restaurants managed with minimal human oversight — where customers order at screens, pay electronically and eat food cooked and delivered by robots — are now a possibility.",
+    "D": "The technology exists, it just needs knitting together cost-effectively and in a way diners buy into. In an industry keen to slash labour costs and increase profits, further automation seems inevitable. After an eight-month test at Kang Nam Tofu House in California, Bear Robotics credited Penny with driving a 28% increase in sales. Meanwhile, in US trials, the self- ordering screens that McDonald’s is currently installing at its 1,300 UK restaurants yielded a reported 30% rise in order values.",
+    "E": "Personalisation is seen as key to the appeal of this technology, alongside its ability to reliably push so-called “upsells” (meal deals, extras, larger drinks) to customers. Soon when you log into a restaurant app, it will be able to use your data and purchasing history to recommend dishes to you — factoring in everything from the weather to, if you are ordering at a screen that can read your face, your mood.",
+    "F": "“Right now people compromise on choice. We're presented with a one-size-fits-all menu. Ultimately, technology can allow us to make personal choices. You love spicy food and chicken? Here's the dish people like you mostly order,” says Tom Weaver, CEO at the hospitality tech company Flyt. He talks enthusiastically about the Helsinki pop-up Take-In, a full- service restaurant where diners ordered dishes in from various delivery services. “For the first time in a few hundred years, digital is allowing us to create new versions of restaurants.”",
+    "G": "If high-street fast food is automation-ready, its impact on high-end restaurants is likely to be subtler and slower. “It’ll probably be a very long time before we see a five-star robot-chef,” says Noel Sharkey, professor of AI and robotics at the University of Sheffield. “Apart from the AI creativity gap, great cooking involves a subtle understanding of ingredients and delicate cooking that would be enormously challenging for robots. Placing fragile foods on plates would be incredibly slow.”",
+    "H": "Currently, robots have limited functionality. A human needs to load Penny with plates that diners lift off themselves. At the robot-powered US pizza-delivery company Zume, the more difficult jobs, such as topping pizzas, are still done by humans. But Moley, which will launch soon, offers an idea of the sophistication to come. Modelled on the movements of a MasterChef contest winner, Tim Anderson, its robotic arms are fixed over a stove and programmed to prepare dishes from raw ingredients. It is designed for domestic use, but a commercial version is planned that opens up the possibility of restaurant kitchens automating even highly technically challenging tasks.",
+    "I": "For now, the kitchen technology that QSR Automations supplies to Mitchells & Butlers’ pubs or KFC is less glamorous. Rather than having a chef shouting out diners' orders, the QSR system automatically distributes those orders across screens. The kitchen screens then tell chefs when to start cooking each dish, so that your plate of fish, chips and peas comes together at the right time.",
+    "J": "The restaurant industry is currently suffering a severe shortage of skilled chefs — a deficit of 11,000, according to the skills agency People 1st. “Automation systems designed to make the process more idiot-proof are trying to bridge that gap,” says Stefan Chomka, the editor of Restaurant magazine.",
+    "K": "In terms of simplifying or enhancing the customer experience, online restaurant booking has been the easily-won success of the internet age. Automated at-table ordering and payment is seen as the next landmark. Until then, early adopters, such as the Manchester bar owner Andy Smith, who uses the Ordoo app at his venue 33 Oldham Street, may well experience growing but “lower than expected” acceptance.",
+    "L": "Embarrassing failures in restaurant tech frequently hit the headlines. The TGI Fridays drone (无人机) that injured a Brooklyn Daily photographer; US burger chain Shake Shack having to retreat from plans for entirely cashless ordering sites. But, says Chomka, such technology could miss the mark if it only offers “solutions to problems that don’t really exist”. “Payments being automatic” could be useful, he adds. But, in an expensive restaurant, “how quick do you need dinner to be?”",
+    "M": "That attachment to the human art of hospitality will be heartening for staff who see automation as a threat to jobs. “Unite is concerned that without safeguards, any benefits will bypass workers in low-paying jobs, such as waiters,” says the union's London regional officer, Dave Turnbull. \"We're urging Members of Parliament to ensure automation does not just benefit a wealthy few like previous industrial revolutions.”",
+    "N": "The industry principle is that automation will allow it to redeploy staff more effectively. Jobs will change, if not immediately decrease in number,” Self-order screens mean more demand for people front-of-house. Last year, we recruited 1,000 new managers,” says McDonald's COO, Jason Clark. Caliburger has a programme to retrain staff as robot engineers or “chef techs”.",
+    "O": "But ultimately the chance to reduce overheads (管理费用) by employing fewer people or at lower rates will be what attracts big brands to technology. Invariably, over the next 10 years, jobs will go in conventional bricks-built restaurants, not least because automation will boost their rapidly growing rival: delivery. Companies such as Domino and Just Eat have both experimented with robot and drone delivery, which is already legal in Reykjavik, Iceland. “Robot food deliveries are the future,” says Noel Sharkey. “Small, 4mph ground robots are safe and will work 24 hours a day.”",
+    "P": "Combined with machine learning of anticipated order volumes and the minute-by-minute cooking data generated by systems such as QSR, that robot fleet could deliver almost instantly. “Restaurants will prepare food ahead of orders coming in,” predicts Just Eat’s director of engineering, Daniel Richardson. “I’ll be able to say ‘Let's have pizza’ to my family, my intelligent assistant will hear and 10 minutes later the food will be at my door.” No one is putting an exact date on it yet. But in the dining room and on your doorstep, the robots are coming."
+  },
+  "questions": {
+    "36": {
+      "stem": "It is now possible to fully automate a burger restaurant with little human supervision.",
+      "answer": "C"
+    },
+    "37": {
+      "stem": "At a robot-powered US company, complicated tasks still have to be performed by humans.",
+      "answer": "H"
+    },
+    "38": {
+      "stem": "More automation appears to be a certainty in industries eager to cut labour costs and raise profits.",
+      "answer": "D"
+    },
+    "39": {
+      "stem": "There are often front-page reports of failures in technological innovation of the restaurant industry.",
+      "answer": "L"
+    },
+    "40": {
+      "stem": "Robot-chef Flippy does not fear laborious work, nor does it make any complaints.",
+      "answer": "A"
+    },
+    "41": {
+      "stem": "Digital technology makes it possible for businesses to innovate restaurant models.",
+      "answer": "F"
+    },
+    "42": {
+      "stem": "Fondness for human warmth in catering to customers will give hope to employees who are afraid of losing jobs to robots.",
+      "answer": "M"
+    },
+    "43": {
+      "stem": "There is an acute shortage of experienced chefs in the catering industry and automated cooking is expected to fill the gap.",
+      "answer": "J"
+    },
+    "44": {
+      "stem": "Over the coming decade, many jobs in traditional restaurants will disappear due to robot delivery.",
+      "answer": "O"
+    },
+    "45": {
+      "stem": "According to an expert in AI and robotics, it may be quite some time before a master robot-chef appears",
+      "answer": "G"
+    }
+  },
+  "section_c": {
+    "passages": [
+      {
+        "q_from": 46,
+        "q_to": 50,
+        "text": "Many see friendships as a comfort blanket: a shoulder to cry on, a reliable soul to confide in. However, more often than not, in our eagerness to seek individual success, we lose friends along the way and that has become part of the process. The chaos and never-ending turmoil that accompanies everyday life is an aggressive obstacle in the pursuit of stable friendships. As students, we use this excuse to shrug off losing people who we once thought to be loved ones. Instead of viewing our lives as a race, where everyone is on their own path to some form of success, we must relearn to value the connections we make along the track. We must reevaluate the harm of radical, individual freedom. Radical individualism elevates the freedom of the individual over the collective. It argues, for instance, that universal healthcare, an example of collectivism, threatened the dream of many Americans. Many of us have fallen victim to an individualistic culture. Society tends to celebrate personal achievement and commend it based on the assumption that winning or succeeding is a consequence of working harder than the next person. As a society, we idolize the concept of “losing friends on the road to success.” I remember hearing in high school, “Don’t worry about losing friendships, just focus on study and getting into college. That’s all that will matter in the long run,” a sentiment that is not unique to my experience. It’s preached in many success stories, and it’s embedded in the way we see growth. Motivational speakers will push their audience to be complacent to the inevitable end of losing friends. Spend too much time with friends? You’re losing time better utilized on your achievements. Invest time in your relationships? Invest time in your work instead. This constant need to succeed has blinded us from seeing through the whirlwind of change that accompanies our everyday lives. We are expected to tangibly succeed, earn awards, get higher positions, earn better grades. In order to succeed, we lose friends, and that has sadly become normalized. We cannot be complacent with losing friendships because they are our anchors. Yes, pursue success. Challenge yourself. Push limits. But contrary to all the self-proclaimed success experts, doing it alone does not make you more successful or any better than someone who achieved it with the help of others. Put effort into fostering healthy relationships, and maintaining them through your busy schedule that seems like it leaves no time for anyone else. Although we may be living in a society that treasures the independent pursuit of achievement, having people to support and love you on the way is far more important than any end result.",
+        "questions": {
+          "46": {
+            "stem": "What often happens when people are eager to pursue individual success?",
+            "options": {
+              "A": "They lack a shoulder to cry on.",
+              "B": "They have no soul to confide in.",
+              "C": "They cannot find reliable friends.",
+              "D": "They ignore their ties with friends."
+            },
+            "answer": "D"
+          },
+          "47": {
+            "stem": "What does the author advise people to do in their pursuit of radical individualism?",
+            "options": {
+              "A": "Reexamine its detrimental effects.",
+              "B": "Shrug off the loss of their loved ones.",
+              "C": "Avoid the chaos and turmoil involved.",
+              "D": "Remove aggressive obstacles in the way."
+            },
+            "answer": "A"
+          },
+          "48": {
+            "stem": "What is American society’s assumption of personal achievement?",
+            "options": {
+              "A": "It is to be duly celebrated and highly commended.",
+              "B": "It is a sure way to fulfill a person’s dream.",
+              "C": "It revolves around an individualistic culture.",
+              "D": "It reflects a person’s exceptional endeavor."
+            },
+            "answer": "D"
+          },
+          "49": {
+            "stem": "What is preached in many success stories?",
+            "options": {
+              "A": "Attaching importance to academic gains on the road to success.",
+              "B": "Investing one’s time in work instead of connecting with friends.",
+              "C": "Trying to strengthen friendships in one’s pursuit of personal success.",
+              "D": "Excelling in academic performance to get into a prestigious college."
+            },
+            "answer": "B"
+          },
+          "50": {
+            "stem": "What can we infer from the passage regarding the pursuit of success?",
+            "options": {
+              "A": "No one can succeed without pushing limits.",
+              "B": "No one can afford to neglect close friends.",
+              "C": "Collectivism is superior to individualism.",
+              "D": "Success experts often lead people to ruin."
+            },
+            "answer": "B"
+          }
+        },
+        "id": 1
+      },
+      {
+        "q_from": 51,
+        "q_to": 55,
+        "text": "During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr. said, “I believe that unarmed truth and unconditional love will have the final word in reality.” More than five decades later, our society is still struggling to separate truth from fantasy, fact from fiction. From disputes over the climate change to debates about how slavery is taught, America is at a crossroads. And the battle for equity is at the heart of these vital conversations. Study after study shows that inequity has had appalling consequences. A 2020 report by Citi indicated that “Black students could have increased their lifetime incomes $90-$113 billion” if equity issues related to higher education had been adequately addressed over the past two decades. This statistic represents a flood of issues we’ve failed to confront as a nation. It also highlights one truth: We're missing out on valuable opportunities to bridge the differences that divide us. However, by honoring King’s legacy, we can get our country back on the path toward true equity. Students — and adults for that matter — simply cannot understand the conflicts we have today without understanding what caused them in the first place. That means we have a responsibility to help them make connections between U.S. history and current events. It also means giving them the tools they need to address inequity and bias in their own lives. Adherence to these principles, along with a commitment to truthful dialogue, can help every student better appreciate how far we've come and more clearly see the roads we have yet to travel. With more truthful analysis of the need for more qualified, diverse educators, we can improve our recruiting, training, and retention strategies for schools across the country. Unfortunately, our deeply rooted divisions are delaying these advancements. A recent survey found that 77 percent of Americans believe the nation is “more divided than ever before”. But reports of increased polarization shouldn’t persuade us to look away from one another. Instead, they should compel us to address our shared issues head-on. We are not, as some would suggest, living in a “post-racial society”. We simply cannot afford to keep our heads buried in the sand when it comes to racial inequity. Unless we get honest about intolerance, bias, and how these social diseases impact the ways we treat one another, injustice will continue to haunt us. But our children and our grandchildren deserve better. On this Martin Luther King Day and beyond, let’s commit to working together to disrupt the status quo. Let’s continue to build a better, more inclusive nation; and in the words of Martin Luther King Jr., “A society at peace with itself, a society that can live with its conscience.”",
+        "questions": {
+          "51": {
+            "stem": "What does the author think about today's America?",
+            "options": {
+              "A": "It is struggling to transform fiction into reality.",
+              "B": "It has been the focus of many vital conversations.",
+              "C": "It still has a long way to go before equity can be truly realized.",
+              "D": "It has got to a point where people disagree on nearly every issue."
+            },
+            "answer": "C"
+          },
+          "52": {
+            "stem": "What do we learn from the passage about black students in the past 20 years?",
+            "options": {
+              "A": "They have been unfairly treated regarding higher education.",
+              "B": "They have been battling hard to address equity issues.",
+              "C": "They have boosted their lifetime incomes by billions of dollars.",
+              "D": "They have come to see the consequences of racial discrimination."
+            },
+            "answer": "A"
+          },
+          "53": {
+            "stem": "How can Americans bridge the differences that divide them?",
+            "options": {
+              "A": "By dealing with the thorny issues confronting them.",
+              "B": "By seizing every chance to enhance racial harmony.",
+              "C": "By continuing to pursue Martin Luther King Jr.'s cause.",
+              "D": "By striving to identify exceedingly valuable opportunities."
+            },
+            "answer": "C"
+          },
+          "54": {
+            "stem": "How do most Americans view America as a nation according to a recent survey?",
+            "options": {
+              "A": "It is compelled to address its historical social issues.",
+              "B": "It is delaying advancements toward racial equality.",
+              "C": "It has kept itself from polarization.",
+              "D": "It has become increasingly split."
+            },
+            "answer": "D"
+          },
+          "55": {
+            "stem": "What does the author suggest Americans do?",
+            "options": {
+              "A": "Ensure the wellbeing of their children and grandchildren.",
+              "B": "Make joint efforts to tackle the nation's equity issues.",
+              "C": "Restrain their intolerance and discrimination.",
+              "D": "Restore social order for a harmonious nation."
+            },
+            "answer": "B"
+          }
+        },
+        "id": 2
+      }
+    ]
+  },
+  "section_a": {
+    "q_from": 26,
+    "q_to": 35,
+    "text": "By now, it is generally accepted that regular exercise comes with an assortment of health benefits for people who maintain the habit over time. But is it too late to start? New research looked at people who increased their exercise levels after their 40s beyond levels they had when they were younger and those individuals showed declines in their risk of early which were similar to those of people who exercised consistently throughout their lives. This was a of 32% to 35% compared to people who did not exercise. Those who began exercising in middle age also saw reductions in their incidence of diseases, such as heart disease and cancer, which were similar to the steady exercisers. So why bother exercising consistently throughout your life? The authors of the study that some might interpret the study's findings to mean that they can delay starting an exercise program, but this would be a mistake. There are other benefits, both mental and physical, to staying consistently active that we should not. These real health benefits include better functioning and lowered risk of gaining weight. The latter is important given the global obesity epidemic. In addition, experts assert that starting younger is better because, if you make a habit of exercising when you are young, you are more likely to keep up those later in life. It is ideal, then, for people to start exercising when they are children or, and it is good to maintain an active lifestyle at all times regardless of your age. However, this study does indicate that, if you have not been active, you can still benefit if you start becoming active in your 40s and 50s.",
+    "words": {
+      "A": "adolescents",
+      "B": "arbitrarily",
+      "C": "chronic",
+      "D": "cognitive",
+      "E": "concede",
+      "F": "disregard",
+      "G": "drop",
+      "H": "ever",
+      "I": "maneuver",
+      "J": "mortality",
+      "K": "particularly",
+      "L": "patterns",
+      "M": "refute",
+      "N": "stereotype",
+      "O": "vocal"
+    },
+    "questions": {
+      "26": {
+        "answer": "H",
+        "answer_word": "ever"
+      },
+      "27": {
+        "answer": "J",
+        "answer_word": "mortality"
+      },
+      "28": {
+        "answer": "G",
+        "answer_word": "drop"
+      },
+      "29": {
+        "answer": "C",
+        "answer_word": "chronic"
+      },
+      "30": {
+        "answer": "E",
+        "answer_word": "concede"
+      },
+      "31": {
+        "answer": "F",
+        "answer_word": "disregard"
+      },
+      "32": {
+        "answer": "D",
+        "answer_word": "cognitive"
+      },
+      "33": {
+        "answer": "K",
+        "answer_word": "particularly"
+      },
+      "34": {
+        "answer": "L",
+        "answer_word": "patterns"
+      },
+      "35": {
+        "answer": "A",
+        "answer_word": "adolescents"
+      }
+    },
+    "practice_text": "By now, it is generally accepted that regular exercise comes with an assortment of health benefits for people who maintain the habit over time. But is it {{26}} too late to start? New research looked at people who increased their exercise levels after their 40s beyond levels they had when they were younger and those individuals showed declines in their risk of early {{27}} which were similar to those of people who exercised consistently throughout their lives. This was a {{28}} of 32% to 35% compared to people who did not exercise. Those who began exercising in middle age also saw reductions in their incidence of {{29}} diseases, such as heart disease and cancer, which were similar to the steady exercisers. So why bother exercising consistently throughout your life? The authors of the study {{30}} that some might interpret the study's findings to mean that they can delay starting an exercise program, but this would be a mistake. There are other benefits, both mental and physical, to staying consistently active that we should not {{31}}. These real health benefits include better {{32}} functioning and lowered risk of gaining weight. The latter is {{33}} important given the global obesity epidemic. In addition, experts assert that starting younger is better because, if you make a habit of exercising when you are young, you are more likely to keep up those {{34}} later in life. It is ideal, then, for people to start exercising when they are children or {{35}}, and it is good to maintain an active lifestyle at all times regardless of your age. However, this study does indicate that, if you have not been active, you can still benefit if you start becoming active in your 40s and 50s."
+  },
+  "writing": "Living in an increasingly competitive world, college students should better prepare themselves to confront various challenges.",
+  "translation": "尊老是中华民族的传统美德，深深植根于中国人的思想和行为中，是人们普遍遵守的行为规范和社会准则。在当今\n的中国，这种美德得到广泛传承。社会各界积极营造敬老助老的社会氛围。为老年人提供便利服务已成为社会共识，\n例如社区专门开设长者食堂，公共场所配置优先座位。政府还出台了一系列政策，为老年人的权益提供有力保障。\n尊老是社会和谐与发展的重要基石，有助于培育良好的社会氛围，推动整个社会文明进步。",
+  "translation_sample": "Respect for older people is a traditional virtue of the Chinese nation. Deeply rooted in people's thinking and behavior, it is a widely observed social norm. This virtue remains strong in China today. People from all walks of life are working to foster a culture of respect and support for older residents. Providing them with convenient services has become a shared commitment: for example, communities have opened dedicated dining halls for older people, and public places provide priority seating. The government has also introduced a range of policies to protect their rights and interests. Respect for older people is an important foundation for social harmony and development, helping to cultivate a caring society and advance civility.",
+  "translation_analysis": "1. **“尊老是中华民族的传统美德。”** → `Respect for older people is a traditional virtue of the Chinese nation.` 先把“尊老”整体转成名词短语 `Respect for older people`，让抽象行为做主语；“是美德”直接用 `is a traditional virtue`，不必为追求复杂句式把每个“是”都换成 `as`。\n2. **“深深植根于……是普遍遵守的行为规范和社会准则。”** → `Deeply rooted in people's thinking and behavior, it is a widely observed social norm.` 句首 `Deeply rooted...` 修饰后面的 `it`，即上一句的尊老美德；主干仍是“它是一种社会规范”。“行为规范／社会准则”意思接近，试译合成 `social norm`，避免重复；若要明确“在中国人的思想和行为中”，可写 `in Chinese people's thinking and behavior`。\n3. **“在当今中国，这种美德得到广泛传承。”** → `This virtue remains strong in China today.` 主语继续用 `This virtue`，`in China today` 保留地点和时间；试译用“依然盛行”概括“广泛传承”，简洁但弱化了传承动作。若更贴原文，可改成 `This virtue continues to be widely upheld in China today.`\n4. **“社会各界积极营造敬老助老的社会氛围。”** → `People from all walks of life are working to foster a culture of respect and support for older residents.` “社会各界”是人的集合，可明确为 `People from all walks of life`；动作是“营造氛围”，所以用 `foster a culture...`。“敬老”“助老”并列为 `respect and support`，不要只译“尊敬”而漏掉“帮助”。\n5. **“提供便利服务已成社会共识，例如长者食堂、优先座位。”** → `Providing them with convenient services has become a shared commitment: for example, communities have opened dedicated dining halls for older people, and public places provide priority seating.` “提供便利服务”整件事做主语，用动名词 `Providing...`；`them` 回指老年人。冒号后列两个具体例子，分别保留社区食堂和公共场所优先座位。若考场觉得这句太长，可在 `shared commitment` 后断句，不必强行用一个长句装下所有信息。\n6. **“政府还出台政策，为老年人权益提供有力保障。”** → `The government has also introduced a range of policies to protect their rights and interests.` 先写主干“政府出台政策”，再用 `to protect...` 说明政策目的；`also` 承接前文民间与社区的举措。试译的 `protect` 没明说“有力”，若要保留程度，可写 `to provide strong protection for their rights and interests`。\n7. **“尊老是和谐发展的基石，有助于培育氛围、推动文明进步。”** → `Respect for older people is an important foundation for social harmony and development, helping to cultivate a caring society and advance civility.` 前半句先立判断主干；后面的“有助于”是这一美德带来的作用，用 `helping to...` 衔接，两个作用再用 `and` 并列。`advance civility` 是概括译法；如强调“整个社会”的进步，可考虑 `promote progress in society as a whole`，但仍须保留“文明”这一层意思。",
+  "translation_needs_review": false
+}

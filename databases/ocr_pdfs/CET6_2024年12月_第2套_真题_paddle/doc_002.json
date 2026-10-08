@@ -1,0 +1,1128 @@
+{
+  "page_count": null,
+  "width": 1191,
+  "height": 1684,
+  "model_settings": {
+    "use_doc_preprocessor": false,
+    "use_layout_detection": true,
+    "use_chart_recognition": false,
+    "use_seal_recognition": false,
+    "use_ocr_for_image_block": false,
+    "format_block_content": false,
+    "merge_layout_blocks": true,
+    "markdown_ignore_labels": [
+      "number",
+      "footnote",
+      "header",
+      "header_image",
+      "footer",
+      "footer_image",
+      "aside_text"
+    ],
+    "return_layout_polygon_points": true
+  },
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "Questions 22 to 25 are based on the recording you have just heard.",
+      "block_bbox": [
+        67,
+        76,
+        668,
+        102
+      ],
+      "block_id": 0,
+      "block_order": 1,
+      "group_id": 0,
+      "block_polygon_points": [
+        [
+          67.0,
+          76.0
+        ],
+        [
+          668.0,
+          76.0
+        ],
+        [
+          668.0,
+          102.0
+        ],
+        [
+          67.0,
+          102.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "22. A) Why smells can activate emotional memories.\nB) How powerful the sense of smell can become.\nC) How scent particles revive memories forgotten.\nD) Why the scent of bread has a strong mental impact.",
+      "block_bbox": [
+        72,
+        108,
+        639,
+        225
+      ],
+      "block_id": 1,
+      "block_order": 2,
+      "group_id": 1,
+      "block_polygon_points": [
+        [
+          72.0,
+          108.0
+        ],
+        [
+          639.0,
+          108.0
+        ],
+        [
+          639.0,
+          225.0
+        ],
+        [
+          72.0,
+          225.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "23. A) The brain cells' processing of memories experienced as strongly emotional.\nB) The activation of the brain's emotion processing area by chemical particles:\nC) The interaction between chemical particles and the brain cells responsible for smell.\nD) The sensations of scents going directly to the brain's emotional and memory centers.",
+      "block_bbox": [
+        68,
+        232,
+        842,
+        350
+      ],
+      "block_id": 2,
+      "block_order": 3,
+      "group_id": 2,
+      "block_polygon_points": [
+        [
+          68.0,
+          232.0
+        ],
+        [
+          842.0,
+          232.0
+        ],
+        [
+          842.0,
+          350.0
+        ],
+        [
+          68.0,
+          350.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "24. A) Imagination. B) Association. C) Experience. D) Context.",
+      "block_bbox": [
+        68,
+        356,
+        972,
+        383
+      ],
+      "block_id": 3,
+      "block_order": 4,
+      "group_id": 3,
+      "block_polygon_points": [
+        [
+          68.0,
+          356.0
+        ],
+        [
+          972.0,
+          356.0
+        ],
+        [
+          972.0,
+          383.0
+        ],
+        [
+          68.0,
+          383.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "25. A) Inaccuracy and alterability. C) Being personal and individualistic.\nB) Susceptibility to polar interpretations: D) Being dependent on relevant scenarios.",
+      "block_bbox": [
+        66,
+        389,
+        939,
+        447
+      ],
+      "block_id": 4,
+      "block_order": 5,
+      "group_id": 4,
+      "block_polygon_points": [
+        [
+          66.0,
+          389.0
+        ],
+        [
+          939.0,
+          389.0
+        ],
+        [
+          939.0,
+          447.0
+        ],
+        [
+          66.0,
+          447.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Part III",
+      "block_bbox": [
+        69,
+        496,
+        167,
+        524
+      ],
+      "block_id": 5,
+      "block_order": 6,
+      "group_id": 5,
+      "block_polygon_points": [
+        [
+          69.0,
+          496.0
+        ],
+        [
+          167.0,
+          496.0
+        ],
+        [
+          167.0,
+          524.0
+        ],
+        [
+          69.0,
+          524.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Reading Comprehension",
+      "block_bbox": [
+        404,
+        495,
+        707,
+        526
+      ],
+      "block_id": 6,
+      "block_order": 7,
+      "group_id": 6,
+      "block_polygon_points": [
+        [
+          404.0,
+          495.0
+        ],
+        [
+          707.0,
+          495.0
+        ],
+        [
+          707.0,
+          526.0
+        ],
+        [
+          404.0,
+          526.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "(40 minutes)",
+      "block_bbox": [
+        951,
+        495,
+        1105,
+        526
+      ],
+      "block_id": 7,
+      "block_order": 8,
+      "group_id": 7,
+      "block_polygon_points": [
+        [
+          951.0,
+          495.0
+        ],
+        [
+          1105.0,
+          495.0
+        ],
+        [
+          1105.0,
+          526.0
+        ],
+        [
+          951.0,
+          526.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Section A",
+      "block_bbox": [
+        68,
+        545,
+        160,
+        567
+      ],
+      "block_id": 8,
+      "block_order": 9,
+      "group_id": 8,
+      "block_polygon_points": [
+        [
+          68.0,
+          545.0
+        ],
+        [
+          159.0,
+          545.0
+        ],
+        [
+          159.0,
+          566.0
+        ],
+        [
+          68.0,
+          566.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Directions: In this section, there is a passage with ten blanks. You are required to select one word for each blank from a list of choices given in a word bank following the passage. Read the passage through carefully before making your choices. Each choice in the bank is identified by a letter. Please mark the corresponding letter for each item on Answer Sheet 2 with a single line through the centre. You may not use any of the words in the bank more than once.",
+      "block_bbox": [
+        67,
+        577,
+        1124,
+        695
+      ],
+      "block_id": 9,
+      "block_order": 10,
+      "group_id": 9,
+      "block_polygon_points": [
+        [
+          67.0,
+          577.0
+        ],
+        [
+          1124.0,
+          577.0
+        ],
+        [
+          1124.0,
+          695.0
+        ],
+        [
+          67.0,
+          695.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Ever been talking about something important with someone you care about and found the discussion frustrating instead of fruitful? Negative energy can then cast a  $ \\underline{26} $ over your efforts to build a shared understanding.",
+      "block_bbox": [
+        67,
+        733,
+        1122,
+        789
+      ],
+      "block_id": 10,
+      "block_order": 11,
+      "group_id": 10,
+      "block_polygon_points": [
+        [
+          67.0,
+          733.0
+        ],
+        [
+          1122.0,
+          733.0
+        ],
+        [
+          1122.0,
+          789.0
+        ],
+        [
+          67.0,
+          789.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "In fact, collaborative problem-solving conversations require skills. Strong listening skills are essential. Sprinkling in positivity via appreciation,  $ \\underline{27} $ smiles, and warm comments helps. So does the essential ability to keep your emotional tone in the calm zone. If the tone of a dialogue heats up and anger erupts, the dialogue  $ \\underline{28} $ from collaborative to adversarial, and progress is likely to come to an immediate  $ \\underline{29} $.",
+      "block_bbox": [
+        67,
+        795,
+        1124,
+        914
+      ],
+      "block_id": 11,
+      "block_order": 12,
+      "group_id": 11,
+      "block_polygon_points": [
+        [
+          67.0,
+          795.0
+        ],
+        [
+          1124.0,
+          795.0
+        ],
+        [
+          1124.0,
+          914.0
+        ],
+        [
+          67.0,
+          914.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "In addition, effective dialogue generally has another important characteristic: symmetry.",
+      "block_bbox": [
+        108,
+        920,
+        858,
+        945
+      ],
+      "block_id": 12,
+      "block_order": 13,
+      "group_id": 12,
+      "block_polygon_points": [
+        [
+          108.0,
+          920.0
+        ],
+        [
+          858.0,
+          920.0
+        ],
+        [
+          858.0,
+          945.0
+        ],
+        [
+          108.0,
+          945.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Symmetry in dialogue refers to the balance of how much each partner talks. Are you each getting equal airtime? When one participant does most of the talking, this asymmetry or lack of balance tends to become annoying to one or both of you. The silent partner  $ \\underline{30} $ tires of only listening, while the talker can feel  $ \\underline{31} $ . Usually, both would prefer more equal give and take.",
+      "block_bbox": [
+        66,
+        952,
+        1123,
+        1069
+      ],
+      "block_id": 13,
+      "block_order": 14,
+      "group_id": 13,
+      "block_polygon_points": [
+        [
+          66.0,
+          952.0
+        ],
+        [
+          1123.0,
+          952.0
+        ],
+        [
+          1123.0,
+          1069.0
+        ],
+        [
+          66.0,
+          1069.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Different rates of speech and levels of voice volume can  $ \\underline{32} $ symmetry as well. The faster or louder partner can easily begin taking up more airtime. The slower-talking or softer-voiced one can have trouble getting the floor.",
+      "block_bbox": [
+        68,
+        1077,
+        1123,
+        1132
+      ],
+      "block_id": 14,
+      "block_order": 15,
+      "group_id": 14,
+      "block_polygon_points": [
+        [
+          68.0,
+          1077.0
+        ],
+        [
+          1123.0,
+          1077.0
+        ],
+        [
+          1123.0,
+          1132.0
+        ],
+        [
+          68.0,
+          1132.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Conversations also lose balance when one partner's opinions count more than the other's. One person's input may carry more sway because their style of expression is more  $ \\underline{33} $____. One viewpoint may tend to get lost because it is expressed more  $ \\underline{34} $____.",
+      "block_bbox": [
+        66,
+        1139,
+        1124,
+        1226
+      ],
+      "block_id": 15,
+      "block_order": 16,
+      "group_id": 15,
+      "block_polygon_points": [
+        [
+          66.0,
+          1139.0
+        ],
+        [
+          1124.0,
+          1139.0
+        ],
+        [
+          1124.0,
+          1226.0
+        ],
+        [
+          66.0,
+          1226.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "If either partner fairly consistently  $ \\underline{35} $ or evaporates, modifying the pattern will be helpful. The dialogue will feel more productive, and at the same time, the relationship overall is likely to feel more positive.",
+      "block_bbox": [
+        67,
+        1232,
+        1125,
+        1288
+      ],
+      "block_id": 16,
+      "block_order": 17,
+      "group_id": 16,
+      "block_polygon_points": [
+        [
+          67.0,
+          1232.0
+        ],
+        [
+          1125.0,
+          1232.0
+        ],
+        [
+          1125.0,
+          1288.0
+        ],
+        [
+          67.0,
+          1288.0
+        ]
+      ]
+    },
+    {
+      "block_label": "table",
+      "block_content": "<table><tr><td>A) affectionate</td><td>I) predominates</td></tr><tr><td>B) approximately</td><td>J) propagate</td></tr><tr><td>C) elapses</td><td>K) scenario</td></tr><tr><td>D) erode</td><td>L) shadow</td></tr><tr><td>E) flattered</td><td>M) tentatively</td></tr><tr><td>F) flips</td><td>N) typically</td></tr><tr><td>G) halt</td><td>O) vigorous</td></tr><tr><td>H) overburdened</td><td></td></tr></table>",
+      "block_bbox": [
+        73,
+        1321,
+        1119,
+        1570
+      ],
+      "block_id": 17,
+      "block_order": null,
+      "group_id": 17,
+      "block_polygon_points": [
+        [
+          73.0,
+          1321.0
+        ],
+        [
+          1119.0,
+          1321.0
+        ],
+        [
+          1119.0,
+          1570.0
+        ],
+        [
+          73.0,
+          1570.0
+        ]
+      ]
+    }
+  ],
+  "layout_det_res": {
+    "boxes": [
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.5279973745346069,
+        "coordinate": [
+          67,
+          76,
+          668,
+          102
+        ],
+        "order": 1,
+        "polygon_points": [
+          [
+            67.0,
+            76.0
+          ],
+          [
+            668.0,
+            76.0
+          ],
+          [
+            668.0,
+            102.0
+          ],
+          [
+            67.0,
+            102.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.832838773727417,
+        "coordinate": [
+          72,
+          108,
+          639,
+          225
+        ],
+        "order": 2,
+        "polygon_points": [
+          [
+            72.0,
+            108.0
+          ],
+          [
+            639.0,
+            108.0
+          ],
+          [
+            639.0,
+            225.0
+          ],
+          [
+            72.0,
+            225.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9283172488212585,
+        "coordinate": [
+          68,
+          232,
+          842,
+          350
+        ],
+        "order": 3,
+        "polygon_points": [
+          [
+            68.0,
+            232.0
+          ],
+          [
+            842.0,
+            232.0
+          ],
+          [
+            842.0,
+            350.0
+          ],
+          [
+            68.0,
+            350.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.5035293698310852,
+        "coordinate": [
+          68,
+          356,
+          972,
+          383
+        ],
+        "order": 4,
+        "polygon_points": [
+          [
+            68.0,
+            356.0
+          ],
+          [
+            972.0,
+            356.0
+          ],
+          [
+            972.0,
+            383.0
+          ],
+          [
+            68.0,
+            383.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.6235399842262268,
+        "coordinate": [
+          66,
+          389,
+          939,
+          447
+        ],
+        "order": 5,
+        "polygon_points": [
+          [
+            66.0,
+            389.0
+          ],
+          [
+            939.0,
+            389.0
+          ],
+          [
+            939.0,
+            447.0
+          ],
+          [
+            66.0,
+            447.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.783715009689331,
+        "coordinate": [
+          69,
+          496,
+          167,
+          524
+        ],
+        "order": 6,
+        "polygon_points": [
+          [
+            69.0,
+            496.0
+          ],
+          [
+            167.0,
+            496.0
+          ],
+          [
+            167.0,
+            524.0
+          ],
+          [
+            69.0,
+            524.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.6625854969024658,
+        "coordinate": [
+          404,
+          495,
+          707,
+          526
+        ],
+        "order": 7,
+        "polygon_points": [
+          [
+            404.0,
+            495.0
+          ],
+          [
+            707.0,
+            495.0
+          ],
+          [
+            707.0,
+            526.0
+          ],
+          [
+            404.0,
+            526.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8138665556907654,
+        "coordinate": [
+          951,
+          495,
+          1105,
+          526
+        ],
+        "order": 8,
+        "polygon_points": [
+          [
+            951.0,
+            495.0
+          ],
+          [
+            1105.0,
+            495.0
+          ],
+          [
+            1105.0,
+            526.0
+          ],
+          [
+            951.0,
+            526.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.7766205668449402,
+        "coordinate": [
+          68,
+          545,
+          160,
+          567
+        ],
+        "order": 9,
+        "polygon_points": [
+          [
+            68.0,
+            545.0
+          ],
+          [
+            159.0,
+            545.0
+          ],
+          [
+            159.0,
+            566.0
+          ],
+          [
+            68.0,
+            566.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9415431618690491,
+        "coordinate": [
+          67,
+          577,
+          1124,
+          695
+        ],
+        "order": 10,
+        "polygon_points": [
+          [
+            67.0,
+            577.0
+          ],
+          [
+            1124.0,
+            577.0
+          ],
+          [
+            1124.0,
+            695.0
+          ],
+          [
+            67.0,
+            695.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9196937084197998,
+        "coordinate": [
+          67,
+          733,
+          1122,
+          789
+        ],
+        "order": 11,
+        "polygon_points": [
+          [
+            67.0,
+            733.0
+          ],
+          [
+            1122.0,
+            733.0
+          ],
+          [
+            1122.0,
+            789.0
+          ],
+          [
+            67.0,
+            789.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9426059126853943,
+        "coordinate": [
+          67,
+          795,
+          1124,
+          914
+        ],
+        "order": 12,
+        "polygon_points": [
+          [
+            67.0,
+            795.0
+          ],
+          [
+            1124.0,
+            795.0
+          ],
+          [
+            1124.0,
+            914.0
+          ],
+          [
+            67.0,
+            914.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8258945941925049,
+        "coordinate": [
+          108,
+          920,
+          858,
+          945
+        ],
+        "order": 13,
+        "polygon_points": [
+          [
+            108.0,
+            920.0
+          ],
+          [
+            858.0,
+            920.0
+          ],
+          [
+            858.0,
+            945.0
+          ],
+          [
+            108.0,
+            945.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9482538104057312,
+        "coordinate": [
+          66,
+          952,
+          1123,
+          1069
+        ],
+        "order": 14,
+        "polygon_points": [
+          [
+            66.0,
+            952.0
+          ],
+          [
+            1123.0,
+            952.0
+          ],
+          [
+            1123.0,
+            1069.0
+          ],
+          [
+            66.0,
+            1069.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9162586331367493,
+        "coordinate": [
+          68,
+          1077,
+          1123,
+          1132
+        ],
+        "order": 15,
+        "polygon_points": [
+          [
+            68.0,
+            1077.0
+          ],
+          [
+            1123.0,
+            1077.0
+          ],
+          [
+            1123.0,
+            1132.0
+          ],
+          [
+            68.0,
+            1132.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.937911868095398,
+        "coordinate": [
+          66,
+          1139,
+          1124,
+          1226
+        ],
+        "order": 16,
+        "polygon_points": [
+          [
+            66.0,
+            1139.0
+          ],
+          [
+            1124.0,
+            1139.0
+          ],
+          [
+            1124.0,
+            1226.0
+          ],
+          [
+            66.0,
+            1226.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.7074378728866577,
+        "coordinate": [
+          67,
+          1232,
+          1125,
+          1288
+        ],
+        "order": 17,
+        "polygon_points": [
+          [
+            67.0,
+            1232.0
+          ],
+          [
+            1125.0,
+            1232.0
+          ],
+          [
+            1125.0,
+            1288.0
+          ],
+          [
+            67.0,
+            1288.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 21,
+        "label": "table",
+        "score": 0.45024311542510986,
+        "coordinate": [
+          73,
+          1321,
+          1119,
+          1570
+        ],
+        "order": null,
+        "polygon_points": [
+          [
+            73.0,
+            1321.0
+          ],
+          [
+            1119.0,
+            1321.0
+          ],
+          [
+            1119.0,
+            1570.0
+          ],
+          [
+            73.0,
+            1570.0
+          ]
+        ]
+      }
+    ]
+  }
+}

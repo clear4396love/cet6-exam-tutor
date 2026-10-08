@@ -1,0 +1,5 @@
+{
+  "pages": 11,
+  "model": "PaddleOCR-VL-1.6",
+  "source_pdf": "CET6_2022年6月_第1套_真题.pdf"
+}

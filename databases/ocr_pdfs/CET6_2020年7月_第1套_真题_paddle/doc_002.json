@@ -1,0 +1,823 @@
+{
+  "page_count": null,
+  "width": 1191,
+  "height": 1684,
+  "model_settings": {
+    "use_doc_preprocessor": false,
+    "use_layout_detection": true,
+    "use_chart_recognition": false,
+    "use_seal_recognition": false,
+    "use_ocr_for_image_block": false,
+    "format_block_content": false,
+    "merge_layout_blocks": true,
+    "markdown_ignore_labels": [
+      "number",
+      "footnote",
+      "header",
+      "header_image",
+      "footer",
+      "footer_image",
+      "aside_text"
+    ],
+    "return_layout_polygon_points": true
+  },
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "B) The abundant provision of rich foods.\nC) The accelerated pace of present-day life.\nD) The adverse impact of the food industry.",
+      "block_bbox": [
+        221,
+        147,
+        652,
+        239
+      ],
+      "block_id": 0,
+      "block_order": 1,
+      "group_id": 0,
+      "block_polygon_points": [
+        [
+          221.0,
+          147.0
+        ],
+        [
+          652.0,
+          147.0
+        ],
+        [
+          652.0,
+          239.0
+        ],
+        [
+          221.0,
+          239.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Section C",
+      "block_bbox": [
+        175,
+        272,
+        283,
+        298
+      ],
+      "block_id": 1,
+      "block_order": 2,
+      "group_id": 1,
+      "block_polygon_points": [
+        [
+          175.0,
+          272.0
+        ],
+        [
+          283.0,
+          272.0
+        ],
+        [
+          283.0,
+          298.0
+        ],
+        [
+          175.0,
+          298.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Directions: In this section, you will hear three recordings of lectures or talks followed by three or four questions. The recordings will be played only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D). Then mark the corresponding letter on Answer Sheet 1 with a single line through the centre.",
+      "block_bbox": [
+        174,
+        304,
+        1019,
+        458
+      ],
+      "block_id": 2,
+      "block_order": 3,
+      "group_id": 2,
+      "block_polygon_points": [
+        [
+          174.0,
+          304.0
+        ],
+        [
+          1019.0,
+          304.0
+        ],
+        [
+          1019.0,
+          458.0
+        ],
+        [
+          174.0,
+          458.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Questions 16 to 18 are based on the recording you have just heard.",
+      "block_bbox": [
+        174,
+        490,
+        863,
+        517
+      ],
+      "block_id": 3,
+      "block_order": 4,
+      "group_id": 3,
+      "block_polygon_points": [
+        [
+          174.0,
+          490.0
+        ],
+        [
+          863.0,
+          490.0
+        ],
+        [
+          863.0,
+          517.0
+        ],
+        [
+          174.0,
+          517.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "16. A) Similarity in interests.\nB) Mental stimulation.\nC) Openness.\nD) Compassion.",
+      "block_bbox": [
+        180,
+        522,
+        509,
+        639
+      ],
+      "block_id": 4,
+      "block_order": 5,
+      "group_id": 4,
+      "block_polygon_points": [
+        [
+          180.0,
+          522.0
+        ],
+        [
+          509.0,
+          522.0
+        ],
+        [
+          509.0,
+          639.0
+        ],
+        [
+          180.0,
+          639.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "17. A) The willingness to offer timely help.\nB) The joy found in each other's company.\nC) Personal bonds.\nD) Emotional factors.",
+      "block_bbox": [
+        219,
+        648,
+        650,
+        766
+      ],
+      "block_id": 5,
+      "block_order": 6,
+      "group_id": 5,
+      "block_polygon_points": [
+        [
+          219.0,
+          648.0
+        ],
+        [
+          650.0,
+          648.0
+        ],
+        [
+          650.0,
+          766.0
+        ],
+        [
+          219.0,
+          766.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "18. A) Failure to keep a promise.\nB) Lack of frankness.\nC) Feelings of betrayal.\nD) Loss of contact.",
+      "block_bbox": [
+        205,
+        773,
+        547,
+        891
+      ],
+      "block_id": 6,
+      "block_order": 7,
+      "group_id": 6,
+      "block_polygon_points": [
+        [
+          205.0,
+          773.0
+        ],
+        [
+          547.0,
+          773.0
+        ],
+        [
+          547.0,
+          891.0
+        ],
+        [
+          205.0,
+          891.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Questions 19 to 21 are based on the recording you have just heard.",
+      "block_bbox": [
+        176,
+        897,
+        862,
+        923
+      ],
+      "block_id": 7,
+      "block_order": 8,
+      "group_id": 7,
+      "block_polygon_points": [
+        [
+          176.0,
+          897.0
+        ],
+        [
+          862.0,
+          897.0
+        ],
+        [
+          862.0,
+          923.0
+        ],
+        [
+          176.0,
+          923.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "19. A) Along the low-lying Colorado River.\nB) At the Dinosaur National Monument.\nC) Along the border of the U. S. and Canada.\nD) At museums of natural history in large cities",
+      "block_bbox": [
+        179,
+        920,
+        670,
+        1046
+      ],
+      "block_id": 8,
+      "block_order": 9,
+      "group_id": 8,
+      "block_polygon_points": [
+        [
+          179.0,
+          920.0
+        ],
+        [
+          670.0,
+          920.0
+        ],
+        [
+          670.0,
+          1046.0
+        ],
+        [
+          179.0,
+          1046.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "20. A) Volcanic explosions could bring whole animal species to extincti.\nB) Some natural disaster killed a whole herd of dinosaurs in the area.\nC) The pit should be carefully preserved for the study of dinosaurs.\nD) The whole region must have been struck by a devastating flood.",
+      "block_bbox": [
+        223,
+        1056,
+        919,
+        1174
+      ],
+      "block_id": 9,
+      "block_order": 10,
+      "group_id": 9,
+      "block_polygon_points": [
+        [
+          223.0,
+          1056.0
+        ],
+        [
+          919.0,
+          1056.0
+        ],
+        [
+          919.0,
+          1174.0
+        ],
+        [
+          223.0,
+          1174.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "21. A) They floated down an eastward flowing river.\nB) They lay buried deep in the sand for millions of years.\nC) They were skeletons of dinosaurs inhabiting the locality.\nD) They were remains of dinosaurs killed in a volcanic explosion.",
+      "block_bbox": [
+        216,
+        1178,
+        834,
+        1297
+      ],
+      "block_id": 10,
+      "block_order": 11,
+      "group_id": 10,
+      "block_polygon_points": [
+        [
+          216.0,
+          1178.0
+        ],
+        [
+          834.0,
+          1178.0
+        ],
+        [
+          834.0,
+          1297.0
+        ],
+        [
+          216.0,
+          1297.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Questions 22 to 25 are based on the recording you have just heard.",
+      "block_bbox": [
+        177,
+        1303,
+        863,
+        1329
+      ],
+      "block_id": 11,
+      "block_order": 12,
+      "group_id": 11,
+      "block_polygon_points": [
+        [
+          177.0,
+          1303.0
+        ],
+        [
+          863.0,
+          1303.0
+        ],
+        [
+          863.0,
+          1329.0
+        ],
+        [
+          177.0,
+          1329.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "22. A) Indulging in seeking leisure and material comfort.\nB) Attaching too much importance to independence.\nC) Failing to care for parents in the traditional way.\nD) Leaving their parents on the verge of starvation.",
+      "block_bbox": [
+        173,
+        1325,
+        777,
+        1453
+      ],
+      "block_id": 12,
+      "block_order": 13,
+      "group_id": 12,
+      "block_polygon_points": [
+        [
+          173.0,
+          1325.0
+        ],
+        [
+          777.0,
+          1325.0
+        ],
+        [
+          777.0,
+          1453.0
+        ],
+        [
+          173.0,
+          1453.0
+        ]
+      ]
+    }
+  ],
+  "layout_det_res": {
+    "boxes": [
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8872181177139282,
+        "coordinate": [
+          221,
+          147,
+          652,
+          239
+        ],
+        "order": 1,
+        "polygon_points": [
+          [
+            221.0,
+            147.0
+          ],
+          [
+            652.0,
+            147.0
+          ],
+          [
+            652.0,
+            239.0
+          ],
+          [
+            221.0,
+            239.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.8193962574005127,
+        "coordinate": [
+          175,
+          272,
+          283,
+          298
+        ],
+        "order": 2,
+        "polygon_points": [
+          [
+            175.0,
+            272.0
+          ],
+          [
+            283.0,
+            272.0
+          ],
+          [
+            283.0,
+            298.0
+          ],
+          [
+            175.0,
+            298.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9411416053771973,
+        "coordinate": [
+          174,
+          304,
+          1019,
+          458
+        ],
+        "order": 3,
+        "polygon_points": [
+          [
+            174.0,
+            304.0
+          ],
+          [
+            1019.0,
+            304.0
+          ],
+          [
+            1019.0,
+            458.0
+          ],
+          [
+            174.0,
+            458.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.6879528164863586,
+        "coordinate": [
+          174,
+          490,
+          863,
+          517
+        ],
+        "order": 4,
+        "polygon_points": [
+          [
+            174.0,
+            490.0
+          ],
+          [
+            863.0,
+            490.0
+          ],
+          [
+            863.0,
+            517.0
+          ],
+          [
+            174.0,
+            517.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.7164531946182251,
+        "coordinate": [
+          180,
+          522,
+          509,
+          639
+        ],
+        "order": 5,
+        "polygon_points": [
+          [
+            180.0,
+            522.0
+          ],
+          [
+            509.0,
+            522.0
+          ],
+          [
+            509.0,
+            639.0
+          ],
+          [
+            180.0,
+            639.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.622061550617218,
+        "coordinate": [
+          219,
+          648,
+          650,
+          766
+        ],
+        "order": 6,
+        "polygon_points": [
+          [
+            219.0,
+            648.0
+          ],
+          [
+            650.0,
+            648.0
+          ],
+          [
+            650.0,
+            766.0
+          ],
+          [
+            219.0,
+            766.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8324512839317322,
+        "coordinate": [
+          205,
+          773,
+          547,
+          891
+        ],
+        "order": 7,
+        "polygon_points": [
+          [
+            205.0,
+            773.0
+          ],
+          [
+            547.0,
+            773.0
+          ],
+          [
+            547.0,
+            891.0
+          ],
+          [
+            205.0,
+            891.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.5956889390945435,
+        "coordinate": [
+          176,
+          897,
+          862,
+          923
+        ],
+        "order": 8,
+        "polygon_points": [
+          [
+            176.0,
+            897.0
+          ],
+          [
+            862.0,
+            897.0
+          ],
+          [
+            862.0,
+            923.0
+          ],
+          [
+            176.0,
+            923.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.6182551383972168,
+        "coordinate": [
+          179,
+          920,
+          670,
+          1046
+        ],
+        "order": 9,
+        "polygon_points": [
+          [
+            179.0,
+            920.0
+          ],
+          [
+            670.0,
+            920.0
+          ],
+          [
+            670.0,
+            1046.0
+          ],
+          [
+            179.0,
+            1046.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.6405008435249329,
+        "coordinate": [
+          223,
+          1056,
+          919,
+          1174
+        ],
+        "order": 10,
+        "polygon_points": [
+          [
+            223.0,
+            1056.0
+          ],
+          [
+            919.0,
+            1056.0
+          ],
+          [
+            919.0,
+            1174.0
+          ],
+          [
+            223.0,
+            1174.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8164834380149841,
+        "coordinate": [
+          216,
+          1178,
+          834,
+          1297
+        ],
+        "order": 11,
+        "polygon_points": [
+          [
+            216.0,
+            1178.0
+          ],
+          [
+            834.0,
+            1178.0
+          ],
+          [
+            834.0,
+            1297.0
+          ],
+          [
+            216.0,
+            1297.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.6030722856521606,
+        "coordinate": [
+          177,
+          1303,
+          863,
+          1329
+        ],
+        "order": 12,
+        "polygon_points": [
+          [
+            177.0,
+            1303.0
+          ],
+          [
+            863.0,
+            1303.0
+          ],
+          [
+            863.0,
+            1329.0
+          ],
+          [
+            177.0,
+            1329.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.7064172029495239,
+        "coordinate": [
+          173,
+          1325,
+          777,
+          1453
+        ],
+        "order": 13,
+        "polygon_points": [
+          [
+            173.0,
+            1325.0
+          ],
+          [
+            777.0,
+            1325.0
+          ],
+          [
+            777.0,
+            1453.0
+          ],
+          [
+            173.0,
+            1453.0
+          ]
+        ]
+      }
+    ]
+  }
+}

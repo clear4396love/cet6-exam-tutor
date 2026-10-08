@@ -1,0 +1,396 @@
+{
+  "page_count": null,
+  "width": 1191,
+  "height": 1684,
+  "model_settings": {
+    "use_doc_preprocessor": false,
+    "use_layout_detection": true,
+    "use_chart_recognition": false,
+    "use_seal_recognition": false,
+    "use_ocr_for_image_block": false,
+    "format_block_content": false,
+    "merge_layout_blocks": true,
+    "markdown_ignore_labels": [
+      "number",
+      "footnote",
+      "header",
+      "header_image",
+      "footer",
+      "footer_image",
+      "aside_text"
+    ],
+    "return_layout_polygon_points": true
+  },
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "need to make hard choices.\nA) capacity\nB) declaration\nC) deteriorating\nD) determined\nE) disaster\nF) eroding\nG) grabbed\nH) inventory\nI) junction\nJ) monotonous\nK) overwhelming\nL) stagnation\nM) stake\nN) stifled\nO) urgent",
+      "block_bbox": [
+        174,
+        150,
+        437,
+        648
+      ],
+      "block_id": 0,
+      "block_order": 1,
+      "group_id": 0,
+      "block_polygon_points": [
+        [
+          174.0,
+          150.0
+        ],
+        [
+          437.0,
+          150.0
+        ],
+        [
+          437.0,
+          648.0
+        ],
+        [
+          174.0,
+          648.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Section B",
+      "block_bbox": [
+        175,
+        678,
+        281,
+        703
+      ],
+      "block_id": 1,
+      "block_order": 2,
+      "group_id": 1,
+      "block_polygon_points": [
+        [
+          175.0,
+          678.0
+        ],
+        [
+          281.0,
+          678.0
+        ],
+        [
+          281.0,
+          703.0
+        ],
+        [
+          175.0,
+          703.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Directions: In this section, you are going to read a passage with ten statements attached to it. Each statement contains information given in one of the paragraphs. Identify the paragraph from which the information is derived. You may choose a paragraph more than once. Each paragraph is marked with a letter. Answer the questions by marking the corresponding letter on Answer Sheet 2.",
+      "block_bbox": [
+        173,
+        710,
+        1021,
+        895
+      ],
+      "block_id": 2,
+      "block_order": 3,
+      "group_id": 2,
+      "block_polygon_points": [
+        [
+          173.0,
+          710.0
+        ],
+        [
+          1021.0,
+          710.0
+        ],
+        [
+          1021.0,
+          895.0
+        ],
+        [
+          173.0,
+          895.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Children Understand Far More About Other Minds Than Long Believed",
+      "block_bbox": [
+        173,
+        927,
+        928,
+        955
+      ],
+      "block_id": 3,
+      "block_order": 4,
+      "group_id": 3,
+      "block_polygon_points": [
+        [
+          173.0,
+          927.0
+        ],
+        [
+          928.0,
+          927.0
+        ],
+        [
+          928.0,
+          955.0
+        ],
+        [
+          173.0,
+          955.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "[A] Until a few decades ago, scholars believed that young children know very little, if anything, about what others are thinking. Swiss psychologist Jean Piaget, who is credited with founding the scientific study of children's thinking, was convinced that preschool children cannot consider what goes on in the minds of others. The interviews and experiments he conducted with kids in the middle of the 20th century suggested that they were trapped in their subjective viewpoints, incapable of imagining what others think, feel or believe.",
+      "block_bbox": [
+        173,
+        959,
+        1020,
+        1175
+      ],
+      "block_id": 4,
+      "block_order": 5,
+      "group_id": 4,
+      "block_polygon_points": [
+        [
+          173.0,
+          959.0
+        ],
+        [
+          1020.0,
+          959.0
+        ],
+        [
+          1020.0,
+          1175.0
+        ],
+        [
+          173.0,
+          1175.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "[B] Much of the subsequent research on early childhood thinking was highly influenced by Piaget's ideas. Scholars sought to refine his theory and empirically confirm his views. But it became increasingly clear that Piaget seemed to have gravely underestimated the intellectual powers of very young kids before they can make themselves understood by speech. Researchers began to devise ever more ingenious ways of figuring out what goes on in the minds of babies, and the resulting picture of their abilities shows subtle variations. Consequently, the old view of children's egocentric (自我中心的) nature and intellectual weaknesses has increasingly fallen out of favor and become replaced by a more generous position that sees a budding sense not only of the physical world but also of other minds' even in the youngest young.",
+      "block_bbox": [
+        173,
+        1178,
+        1019,
+        1520
+      ],
+      "block_id": 5,
+      "block_order": 6,
+      "group_id": 5,
+      "block_polygon_points": [
+        [
+          173.0,
+          1178.0
+        ],
+        [
+          1019.0,
+          1178.0
+        ],
+        [
+          1019.0,
+          1520.0
+        ],
+        [
+          173.0,
+          1520.0
+        ]
+      ]
+    }
+  ],
+  "layout_det_res": {
+    "boxes": [
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9003213047981262,
+        "coordinate": [
+          174,
+          150,
+          437,
+          648
+        ],
+        "order": 1,
+        "polygon_points": [
+          [
+            174.0,
+            150.0
+          ],
+          [
+            437.0,
+            150.0
+          ],
+          [
+            437.0,
+            648.0
+          ],
+          [
+            174.0,
+            648.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.8301373720169067,
+        "coordinate": [
+          175,
+          678,
+          281,
+          703
+        ],
+        "order": 2,
+        "polygon_points": [
+          [
+            175.0,
+            678.0
+          ],
+          [
+            281.0,
+            678.0
+          ],
+          [
+            281.0,
+            703.0
+          ],
+          [
+            175.0,
+            703.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9337698221206665,
+        "coordinate": [
+          173,
+          710,
+          1021,
+          895
+        ],
+        "order": 3,
+        "polygon_points": [
+          [
+            173.0,
+            710.0
+          ],
+          [
+            1021.0,
+            710.0
+          ],
+          [
+            1021.0,
+            895.0
+          ],
+          [
+            173.0,
+            895.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.8261913061141968,
+        "coordinate": [
+          173,
+          927,
+          928,
+          955
+        ],
+        "order": 4,
+        "polygon_points": [
+          [
+            173.0,
+            927.0
+          ],
+          [
+            928.0,
+            927.0
+          ],
+          [
+            928.0,
+            955.0
+          ],
+          [
+            173.0,
+            955.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9583900570869446,
+        "coordinate": [
+          173,
+          959,
+          1020,
+          1175
+        ],
+        "order": 5,
+        "polygon_points": [
+          [
+            173.0,
+            959.0
+          ],
+          [
+            1020.0,
+            959.0
+          ],
+          [
+            1020.0,
+            1175.0
+          ],
+          [
+            173.0,
+            1175.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9661917090415955,
+        "coordinate": [
+          173,
+          1178,
+          1019,
+          1520
+        ],
+        "order": 6,
+        "polygon_points": [
+          [
+            173.0,
+            1178.0
+          ],
+          [
+            1019.0,
+            1178.0
+          ],
+          [
+            1019.0,
+            1520.0
+          ],
+          [
+            173.0,
+            1520.0
+          ]
+        ]
+      }
+    ]
+  }
+}

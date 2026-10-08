@@ -1,0 +1,69 @@
+{
+  "year": 2025,
+  "month": 12,
+  "exam_set": 2,
+  "section_a": {
+    "q_from": 26,
+    "q_to": 35,
+    "text": "We humans love to believe we are special, but science and technology have repeatedly proved this conviction wrong. People thought that humans were the only animals to use tools, to form teams or to propagate culture, but science has shown that other animals do each of these things. Meanwhile, technology has quashed (使无效), one by one, claims that tasks require a human brain. The first adding machine was invented in 1623. This past year, a computer-generated work won an art contest. I believe the moment when computers meet and human intelligence is on the horizon. How will human intelligence and creativity be valued when machines become smarter and more creative than the brightest people? There will likely be a spectrum. In some ____, people still value humans doing things, even if a computer can do it better. It's been a quarter of a century since a computer beat world champion Garry Kasparov, but human chess hasn't gone away. In other fields, human skill will seem costly and . Take illustration for example: most readers don't care whether the graphic a magazine article was drawn by a person or a computer — they just want it to be relevant, new and perhaps . And, of course, this question isn't black or white. Many fields will be a , where some humans find a lucky place, but most of the work is done by computers, like in manufacturing today, where, much of the work is accomplished by robots, but some humans must be there to the machines. If history is any guide, it's almost certain that advances in AI will cause more jobs to , that creative workers with human-only skills will become richer but fewer in number, and that those who own creative technology will become the new ultra-rich.",
+    "words": {
+      "A": "accompanying",
+      "B": "cognitive",
+      "C": "domains",
+      "D": "entertaining",
+      "E": "evoking",
+      "F": "hybrid",
+      "G": "impetus",
+      "H": "intuitive",
+      "I": "once",
+      "J": "oversee",
+      "K": "redundant",
+      "L": "stances",
+      "M": "surpass",
+      "N": "tentatively",
+      "O": "vanish"
+    },
+    "questions": {
+      "26": {
+        "answer": "I",
+        "answer_word": "once"
+      },
+      "27": {
+        "answer": "B",
+        "answer_word": "cognitive"
+      },
+      "28": {
+        "answer": "M",
+        "answer_word": "surpass"
+      },
+      "29": {
+        "answer": "C",
+        "answer_word": "domains"
+      },
+      "30": {
+        "answer": "K",
+        "answer_word": "redundant"
+      },
+      "31": {
+        "answer": "A",
+        "answer_word": "accompanying"
+      },
+      "32": {
+        "answer": "D",
+        "answer_word": "entertaining"
+      },
+      "33": {
+        "answer": "F",
+        "answer_word": "hybrid"
+      },
+      "34": {
+        "answer": "J",
+        "answer_word": "oversee"
+      },
+      "35": {
+        "answer": "O",
+        "answer_word": "vanish"
+      }
+    }
+  }
+}

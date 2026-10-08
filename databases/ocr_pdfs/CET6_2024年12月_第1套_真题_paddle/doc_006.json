@@ -1,0 +1,823 @@
+{
+  "page_count": null,
+  "width": 1191,
+  "height": 1684,
+  "model_settings": {
+    "use_doc_preprocessor": false,
+    "use_layout_detection": true,
+    "use_chart_recognition": false,
+    "use_seal_recognition": false,
+    "use_ocr_for_image_block": false,
+    "format_block_content": false,
+    "merge_layout_blocks": true,
+    "markdown_ignore_labels": [
+      "number",
+      "footnote",
+      "header",
+      "header_image",
+      "footer",
+      "footer_image",
+      "aside_text"
+    ],
+    "return_layout_polygon_points": true
+  },
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "The two opposing struggles are taking place in parallel. In the physical world, the struggle goes against the underlying pressure exerted on women to conform to an unrealistic beauty ideal. As part of the struggle, various media outlets have presented women whose bodies don't correspond to the so-called ideal. All those women who had previously been excluded from the covers of magazines, television series and the public agenda, have become “legitimate”. At the same time, a group of influencers have begun to upload to social media photos of themselves without makeup, and even photos in which they highlight supposed flaws.",
+      "block_bbox": [
+        66,
+        78,
+        1125,
+        260
+      ],
+      "block_id": 0,
+      "block_order": 1,
+      "group_id": 0,
+      "block_polygon_points": [
+        [
+          66.0,
+          78.0
+        ],
+        [
+          1125.0,
+          78.0
+        ],
+        [
+          1125.0,
+          260.0
+        ],
+        [
+          66.0,
+          260.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Technology has reshaped our beauty ideal and is doing a great job communicating that message to the masses. One of the bizarre legacies of the past decade is the popularity of the “cyborg look”, which illustrates what Americans will look like in 2050.",
+      "block_bbox": [
+        66,
+        264,
+        1125,
+        351
+      ],
+      "block_id": 1,
+      "block_order": 2,
+      "group_id": 1,
+      "block_polygon_points": [
+        [
+          66.0,
+          264.0
+        ],
+        [
+          1125.0,
+          264.0
+        ],
+        [
+          1125.0,
+          351.0
+        ],
+        [
+          66.0,
+          351.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "The internalization of accepted beauty norms is much more effective when there is active involvement in the learning process. The active involvement of users is reflected in the gamified (游戏化的) interaction offered by the social media platforms --- the ability to like, write a comment, compare, share.",
+      "block_bbox": [
+        66,
+        391,
+        1124,
+        476
+      ],
+      "block_id": 2,
+      "block_order": 3,
+      "group_id": 2,
+      "block_polygon_points": [
+        [
+          66.0,
+          391.0
+        ],
+        [
+          1124.0,
+          391.0
+        ],
+        [
+          1124.0,
+          476.0
+        ],
+        [
+          66.0,
+          476.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "The cyborg look spread rapidly. Today, however, the Instagram face has become the new beauty ideal.",
+      "block_bbox": [
+        108,
+        358,
+        973,
+        383
+      ],
+      "block_id": 3,
+      "block_order": 4,
+      "group_id": 3,
+      "block_polygon_points": [
+        [
+          108.0,
+          358.0
+        ],
+        [
+          973.0,
+          358.0
+        ],
+        [
+          973.0,
+          383.0
+        ],
+        [
+          108.0,
+          383.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Once the desired beauty ideal has been internalized, users are given tools or features to change their appearance to suit the accepted beauty ideal such as editing the image, choosing the ideal filter, the right background.",
+      "block_bbox": [
+        66,
+        483,
+        1123,
+        540
+      ],
+      "block_id": 4,
+      "block_order": 5,
+      "group_id": 4,
+      "block_polygon_points": [
+        [
+          66.0,
+          483.0
+        ],
+        [
+          1123.0,
+          483.0
+        ],
+        [
+          1123.0,
+          540.0
+        ],
+        [
+          66.0,
+          540.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "A survey conducted in the United States revealed that more than 50% filter the images before posting them. And you will not be surprised to hear that the majority of them are women. One of the significant consequences of obsessive filtering is the emerging tendency to treat oneself as an object to be observed and valued, in the same way another person observes and judges from the side.",
+      "block_bbox": [
+        67,
+        547,
+        1125,
+        664
+      ],
+      "block_id": 5,
+      "block_order": 6,
+      "group_id": 5,
+      "block_polygon_points": [
+        [
+          67.0,
+          547.0
+        ],
+        [
+          1125.0,
+          547.0
+        ],
+        [
+          1125.0,
+          664.0
+        ],
+        [
+          67.0,
+          664.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "The effect of the filters is already far beyond amiable amusement. The filters and the entire game played on the networks affect the mental health of the users. According to a study, apps like Instagram, Snapchat and FaceTune allow users to achieve a level of perfection that was previously only observed in beauty magazines.",
+      "block_bbox": [
+        67,
+        671,
+        1125,
+        759
+      ],
+      "block_id": 6,
+      "block_order": 7,
+      "group_id": 6,
+      "block_polygon_points": [
+        [
+          67.0,
+          671.0
+        ],
+        [
+          1125.0,
+          671.0
+        ],
+        [
+          1125.0,
+          759.0
+        ],
+        [
+          67.0,
+          759.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Even though humanity has always cherished beauty, in the last decade our obsession with looks has reached an unprecedented peak. The time spent on social media creates an urge to achieve an impossible beauty ideal so powerful that the only thing that can fix it is not cosmetic intervention, but mental health care.",
+      "block_bbox": [
+        66,
+        765,
+        1125,
+        852
+      ],
+      "block_id": 7,
+      "block_order": 8,
+      "group_id": 7,
+      "block_polygon_points": [
+        [
+          66.0,
+          765.0
+        ],
+        [
+          1125.0,
+          765.0
+        ],
+        [
+          1125.0,
+          852.0
+        ],
+        [
+          66.0,
+          852.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "51. What do we learn about beauty in the digital arena?\nA) It dictates the taste of digital media. C) It has ushered in a new awakening.\nB) It has been in the making for years. D) It is defined by social media.",
+      "block_bbox": [
+        68,
+        889,
+        899,
+        976
+      ],
+      "block_id": 8,
+      "block_order": 9,
+      "group_id": 8,
+      "block_polygon_points": [
+        [
+          68.0,
+          889.0
+        ],
+        [
+          899.0,
+          889.0
+        ],
+        [
+          899.0,
+          976.0
+        ],
+        [
+          68.0,
+          976.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "52. What does the passage say about beauty in the physical world?\nA) Women are under constant pressure to keep up with beauty models.\nB) Women are encouraged to pursue a beauty ideal that has never existed.\nC) A fight is going on to remove pressure on women to conform to an absurd beauty ideal.\nD) Media outlets have begun to present as beauty models trendy women without any make",
+      "block_bbox": [
+        68,
+        984,
+        856,
+        1132
+      ],
+      "block_id": 9,
+      "block_order": 10,
+      "group_id": 9,
+      "block_polygon_points": [
+        [
+          68.0,
+          984.0
+        ],
+        [
+          856.0,
+          984.0
+        ],
+        [
+          856.0,
+          1132.0
+        ],
+        [
+          68.0,
+          1132.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "53. What do we learn from the passage about the Instagram face?\nA) It is now regarded as the new beauty ideal.\nB) It is what most women will go after in 2050.\nC) It is being much talked about on social media.\nD) It is a perfect illustration of the ultimate beauty.",
+      "block_bbox": [
+        69,
+        1140,
+        626,
+        1289
+      ],
+      "block_id": 10,
+      "block_order": 11,
+      "group_id": 10,
+      "block_polygon_points": [
+        [
+          69.0,
+          1140.0
+        ],
+        [
+          626.0,
+          1140.0
+        ],
+        [
+          626.0,
+          1289.0
+        ],
+        [
+          69.0,
+          1289.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "54. What has obsessive filtering resulted in?\nA) A good many women striving to reach an impossible level of perfection.\nB) An urge to turn the entire game played on the network to one's advantage.\nC) A tendency to regard one's body as an object of observation and judgment.\nD) An increasing number of women filtering their images before uploading the",
+      "block_bbox": [
+        70,
+        1295,
+        750,
+        1445
+      ],
+      "block_id": 11,
+      "block_order": 12,
+      "group_id": 11,
+      "block_polygon_points": [
+        [
+          70.0,
+          1295.0
+        ],
+        [
+          750.0,
+          1295.0
+        ],
+        [
+          750.0,
+          1445.0
+        ],
+        [
+          70.0,
+          1445.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "55. What does the author want to emphasize at the end of the passage regarding Americans’ obsession with looks?\nA) Cosmetic surgery should be made more accessible to the masses.\nB) Psychological intervention should be introduced to alleviate it.\nC) Their time spent on social media should be strictly controlled.\nD) Its root cause should be meticulously examined and analyzed.",
+      "block_bbox": [
+        67,
+        1451,
+        1035,
+        1601
+      ],
+      "block_id": 12,
+      "block_order": 13,
+      "group_id": 12,
+      "block_polygon_points": [
+        [
+          67.0,
+          1451.0
+        ],
+        [
+          1035.0,
+          1451.0
+        ],
+        [
+          1035.0,
+          1601.0
+        ],
+        [
+          67.0,
+          1601.0
+        ]
+      ]
+    }
+  ],
+  "layout_det_res": {
+    "boxes": [
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9611284732818604,
+        "coordinate": [
+          66,
+          78,
+          1125,
+          260
+        ],
+        "order": 1,
+        "polygon_points": [
+          [
+            66.0,
+            78.0
+          ],
+          [
+            1125.0,
+            78.0
+          ],
+          [
+            1125.0,
+            260.0
+          ],
+          [
+            66.0,
+            260.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9300399422645569,
+        "coordinate": [
+          66,
+          264,
+          1125,
+          351
+        ],
+        "order": 2,
+        "polygon_points": [
+          [
+            66.0,
+            264.0
+          ],
+          [
+            1125.0,
+            264.0
+          ],
+          [
+            1125.0,
+            351.0
+          ],
+          [
+            66.0,
+            351.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9349037408828735,
+        "coordinate": [
+          66,
+          391,
+          1124,
+          476
+        ],
+        "order": 3,
+        "polygon_points": [
+          [
+            66.0,
+            391.0
+          ],
+          [
+            1124.0,
+            391.0
+          ],
+          [
+            1124.0,
+            476.0
+          ],
+          [
+            66.0,
+            476.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8309764266014099,
+        "coordinate": [
+          108,
+          358,
+          973,
+          383
+        ],
+        "order": 4,
+        "polygon_points": [
+          [
+            108.0,
+            358.0
+          ],
+          [
+            973.0,
+            358.0
+          ],
+          [
+            973.0,
+            383.0
+          ],
+          [
+            108.0,
+            383.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9130467772483826,
+        "coordinate": [
+          66,
+          483,
+          1123,
+          540
+        ],
+        "order": 5,
+        "polygon_points": [
+          [
+            66.0,
+            483.0
+          ],
+          [
+            1123.0,
+            483.0
+          ],
+          [
+            1123.0,
+            540.0
+          ],
+          [
+            66.0,
+            540.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.951134443283081,
+        "coordinate": [
+          67,
+          547,
+          1125,
+          664
+        ],
+        "order": 6,
+        "polygon_points": [
+          [
+            67.0,
+            547.0
+          ],
+          [
+            1125.0,
+            547.0
+          ],
+          [
+            1125.0,
+            664.0
+          ],
+          [
+            67.0,
+            664.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9390654563903809,
+        "coordinate": [
+          67,
+          671,
+          1125,
+          759
+        ],
+        "order": 7,
+        "polygon_points": [
+          [
+            67.0,
+            671.0
+          ],
+          [
+            1125.0,
+            671.0
+          ],
+          [
+            1125.0,
+            759.0
+          ],
+          [
+            67.0,
+            759.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9341056942939758,
+        "coordinate": [
+          66,
+          765,
+          1125,
+          852
+        ],
+        "order": 8,
+        "polygon_points": [
+          [
+            66.0,
+            765.0
+          ],
+          [
+            1125.0,
+            765.0
+          ],
+          [
+            1125.0,
+            852.0
+          ],
+          [
+            66.0,
+            852.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9265811443328857,
+        "coordinate": [
+          68,
+          889,
+          899,
+          976
+        ],
+        "order": 9,
+        "polygon_points": [
+          [
+            68.0,
+            889.0
+          ],
+          [
+            899.0,
+            889.0
+          ],
+          [
+            899.0,
+            976.0
+          ],
+          [
+            68.0,
+            976.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9382932186126709,
+        "coordinate": [
+          68,
+          984,
+          856,
+          1132
+        ],
+        "order": 10,
+        "polygon_points": [
+          [
+            68.0,
+            984.0
+          ],
+          [
+            856.0,
+            984.0
+          ],
+          [
+            856.0,
+            1132.0
+          ],
+          [
+            68.0,
+            1132.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9486871957778931,
+        "coordinate": [
+          69,
+          1140,
+          626,
+          1289
+        ],
+        "order": 11,
+        "polygon_points": [
+          [
+            69.0,
+            1140.0
+          ],
+          [
+            626.0,
+            1140.0
+          ],
+          [
+            626.0,
+            1289.0
+          ],
+          [
+            69.0,
+            1289.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9412604570388794,
+        "coordinate": [
+          70,
+          1295,
+          750,
+          1445
+        ],
+        "order": 12,
+        "polygon_points": [
+          [
+            70.0,
+            1295.0
+          ],
+          [
+            750.0,
+            1295.0
+          ],
+          [
+            750.0,
+            1445.0
+          ],
+          [
+            70.0,
+            1445.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9302504658699036,
+        "coordinate": [
+          67,
+          1451,
+          1035,
+          1601
+        ],
+        "order": 13,
+        "polygon_points": [
+          [
+            67.0,
+            1451.0
+          ],
+          [
+            1035.0,
+            1451.0
+          ],
+          [
+            1035.0,
+            1601.0
+          ],
+          [
+            67.0,
+            1601.0
+          ]
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "2021_12_3": {
+    "expected_reading": ["B", "C"],
+    "source": "databases/试卷/CET6_2021年12月_第3套_真题.pdf",
+    "note": "第1页注明 Section A 与其他套相同，不重复列出；保留 B、C。"
+  },
+  "2022_6_2": {
+    "expected_reading": ["A", "B", "C"],
+    "source": "databases/试卷/CET6_2022年6月_第2-3套_真题.pdf",
+    "note": "第1页有 A，第5页有 C；缓存中的 A、C 尚缺。"
+  },
+  "2022_6_3": {
+    "expected_reading": [],
+    "source": "databases/试卷/CET6_2022年6月_第2-3套_真题.pdf",
+    "note": "第9页注明阅读与前两套完全相同，不重复列出。"
+  },
+  "2022_9_2": {
+    "expected_reading": [],
+    "source": "databases/试卷/CET6_2022年9月_第2-3套_真题.pdf",
+    "note": "第1页注明阅读与第1套完全相同，不重复列出。"
+  },
+  "2022_9_3": {
+    "expected_reading": [],
+    "source": "databases/试卷/CET6_2022年9月_第2-3套_真题.pdf",
+    "note": "第2页注明阅读与第1套完全相同，不重复列出。"
+  },
+  "2023_3_2": {
+    "expected_reading": [],
+    "source": "databases/试卷/CET6_2023年3月_第2-3套_真题.pdf",
+    "note": "第1页注明阅读与第1套完全相同，不重复列出。"
+  },
+  "2023_3_3": {
+    "expected_reading": [],
+    "source": "databases/试卷/CET6_2023年3月_第2-3套_真题.pdf",
+    "note": "第3页注明阅读与第1套完全相同，不重复列出。"
+  }
+}

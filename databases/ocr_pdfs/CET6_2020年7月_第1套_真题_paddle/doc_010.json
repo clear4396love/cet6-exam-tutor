@@ -1,0 +1,579 @@
+{
+  "page_count": null,
+  "width": 1191,
+  "height": 1684,
+  "model_settings": {
+    "use_doc_preprocessor": false,
+    "use_layout_detection": true,
+    "use_chart_recognition": false,
+    "use_seal_recognition": false,
+    "use_ocr_for_image_block": false,
+    "format_block_content": false,
+    "merge_layout_blocks": true,
+    "markdown_ignore_labels": [
+      "number",
+      "footnote",
+      "header",
+      "header_image",
+      "footer",
+      "footer_image",
+      "aside_text"
+    ],
+    "return_layout_polygon_points": true
+  },
+  "parsing_res_list": [
+    {
+      "block_label": "text",
+      "block_content": "52. What does Glenn Kirk think of charging hunters' license fees?\nA) It keeps game population under control.\nB) It turns hunting into a sport of the rich.\nC) It leads to ecological imbalance.\nD) It helps stop killing for pleasure.",
+      "block_bbox": [
+        174,
+        147,
+        858,
+        299
+      ],
+      "block_id": 0,
+      "block_order": 1,
+      "group_id": 0,
+      "block_polygon_points": [
+        [
+          174.0,
+          147.0
+        ],
+        [
+          858.0,
+          147.0
+        ],
+        [
+          858.0,
+          299.0
+        ],
+        [
+          174.0,
+          299.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "53. What is the argument of the Humane Society of the United States against hunting?\nA) Overpopulation is not an issue for most hunted animals-\nB) Hunting deprives animal populations of their food sources.\nC) Many birds and small animals are being irrationally killed-\nD) Hunting is universally acknowledged as a savage behavior.",
+      "block_bbox": [
+        174,
+        303,
+        1017,
+        487
+      ],
+      "block_id": 1,
+      "block_order": 2,
+      "group_id": 1,
+      "block_polygon_points": [
+        [
+          174.0,
+          303.0
+        ],
+        [
+          1017.0,
+          303.0
+        ],
+        [
+          1017.0,
+          487.0
+        ],
+        [
+          174.0,
+          487.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "54.When is hunting morally justifiable according to Gary E. Varner?\nA) When it benefits animals and their ecosystem-\nB) When it serves both human and animal interests.\nC) When it is indispensable to humans' subsistence.\nD) When it stabilizes the population of animal species.",
+      "block_bbox": [
+        174,
+        491,
+        888,
+        643
+      ],
+      "block_id": 2,
+      "block_order": 3,
+      "group_id": 2,
+      "block_polygon_points": [
+        [
+          174.0,
+          491.0
+        ],
+        [
+          888.0,
+          491.0
+        ],
+        [
+          888.0,
+          643.0
+        ],
+        [
+          174.0,
+          643.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "55. What concept are green leaders trying to promote?\nA) Effective protection of animal habitats.\nB) Strict control over urban development.\nC) Coordinated efforts of hunters and environmentalists.\nD) A compromise between development and animal protection",
+      "block_bbox": [
+        173,
+        648,
+        830,
+        800
+      ],
+      "block_id": 3,
+      "block_order": 4,
+      "group_id": 3,
+      "block_polygon_points": [
+        [
+          173.0,
+          648.0
+        ],
+        [
+          830.0,
+          648.0
+        ],
+        [
+          830.0,
+          800.0
+        ],
+        [
+          173.0,
+          800.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Part IV",
+      "block_bbox": [
+        176,
+        833,
+        263,
+        860
+      ],
+      "block_id": 4,
+      "block_order": 5,
+      "group_id": 4,
+      "block_polygon_points": [
+        [
+          176.0,
+          833.0
+        ],
+        [
+          263.0,
+          833.0
+        ],
+        [
+          263.0,
+          860.0
+        ],
+        [
+          176.0,
+          860.0
+        ]
+      ]
+    },
+    {
+      "block_label": "paragraph_title",
+      "block_content": "Translation",
+      "block_bbox": [
+        540,
+        834,
+        668,
+        860
+      ],
+      "block_id": 5,
+      "block_order": 6,
+      "group_id": 5,
+      "block_polygon_points": [
+        [
+          540.0,
+          834.0
+        ],
+        [
+          668.0,
+          834.0
+        ],
+        [
+          668.0,
+          860.0
+        ],
+        [
+          540.0,
+          860.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "(30 minutes)",
+      "block_bbox": [
+        876,
+        834,
+        1011,
+        861
+      ],
+      "block_id": 6,
+      "block_order": 7,
+      "group_id": 6,
+      "block_polygon_points": [
+        [
+          876.0,
+          834.0
+        ],
+        [
+          1011.0,
+          834.0
+        ],
+        [
+          1011.0,
+          861.0
+        ],
+        [
+          876.0,
+          861.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "Directions: For this part you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.",
+      "block_bbox": [
+        174,
+        865,
+        1017,
+        926
+      ],
+      "block_id": 7,
+      "block_order": 8,
+      "group_id": 7,
+      "block_polygon_points": [
+        [
+          174.0,
+          865.0
+        ],
+        [
+          1017.0,
+          865.0
+        ],
+        [
+          1017.0,
+          926.0
+        ],
+        [
+          174.0,
+          926.0
+        ]
+      ]
+    },
+    {
+      "block_label": "text",
+      "block_content": "《三国演义》(The Romance of the Three Kingdoms)是中国一部著名的历史小说，写于十四世纪。这部文学作品以三国时期的历史为背景，描写了从公元二世纪下半叶到公元三世纪下半叶的魏、蜀、吴三国之间的战争。小说中刻画了近千个人物和无数的历史事件。这些人物和事件虽然大都基于真实的历史，但都不同程度地浪漫化和戏剧化了。《三国演义》是一部公认的文学杰作。自面世以来，这部小说不断吸引着一代又一代的读者，并且对中国文化产生着广泛而持久的影响。",
+      "block_bbox": [
+        172,
+        956,
+        1017,
+        1174
+      ],
+      "block_id": 8,
+      "block_order": 9,
+      "group_id": 8,
+      "block_polygon_points": [
+        [
+          172.0,
+          956.0
+        ],
+        [
+          1017.0,
+          956.0
+        ],
+        [
+          1017.0,
+          1174.0
+        ],
+        [
+          172.0,
+          1174.0
+        ]
+      ]
+    }
+  ],
+  "layout_det_res": {
+    "boxes": [
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9457470774650574,
+        "coordinate": [
+          174,
+          147,
+          858,
+          299
+        ],
+        "order": 1,
+        "polygon_points": [
+          [
+            174.0,
+            147.0
+          ],
+          [
+            858.0,
+            147.0
+          ],
+          [
+            858.0,
+            299.0
+          ],
+          [
+            174.0,
+            299.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8935416340827942,
+        "coordinate": [
+          174,
+          303,
+          1017,
+          487
+        ],
+        "order": 2,
+        "polygon_points": [
+          [
+            174.0,
+            303.0
+          ],
+          [
+            1017.0,
+            303.0
+          ],
+          [
+            1017.0,
+            487.0
+          ],
+          [
+            174.0,
+            487.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9270758628845215,
+        "coordinate": [
+          174,
+          491,
+          888,
+          643
+        ],
+        "order": 3,
+        "polygon_points": [
+          [
+            174.0,
+            491.0
+          ],
+          [
+            888.0,
+            491.0
+          ],
+          [
+            888.0,
+            643.0
+          ],
+          [
+            174.0,
+            643.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.8874443173408508,
+        "coordinate": [
+          173,
+          648,
+          830,
+          800
+        ],
+        "order": 4,
+        "polygon_points": [
+          [
+            173.0,
+            648.0
+          ],
+          [
+            830.0,
+            648.0
+          ],
+          [
+            830.0,
+            800.0
+          ],
+          [
+            173.0,
+            800.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.6090728640556335,
+        "coordinate": [
+          176,
+          833,
+          263,
+          860
+        ],
+        "order": 5,
+        "polygon_points": [
+          [
+            176.0,
+            833.0
+          ],
+          [
+            263.0,
+            833.0
+          ],
+          [
+            263.0,
+            860.0
+          ],
+          [
+            176.0,
+            860.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 17,
+        "label": "paragraph_title",
+        "score": 0.5983478426933289,
+        "coordinate": [
+          540,
+          834,
+          668,
+          860
+        ],
+        "order": 6,
+        "polygon_points": [
+          [
+            540.0,
+            834.0
+          ],
+          [
+            668.0,
+            834.0
+          ],
+          [
+            668.0,
+            860.0
+          ],
+          [
+            540.0,
+            860.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.4173392057418823,
+        "coordinate": [
+          876,
+          834,
+          1011,
+          861
+        ],
+        "order": 7,
+        "polygon_points": [
+          [
+            876.0,
+            834.0
+          ],
+          [
+            1011.0,
+            834.0
+          ],
+          [
+            1011.0,
+            861.0
+          ],
+          [
+            876.0,
+            861.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.7845301032066345,
+        "coordinate": [
+          174,
+          865,
+          1017,
+          926
+        ],
+        "order": 8,
+        "polygon_points": [
+          [
+            174.0,
+            865.0
+          ],
+          [
+            1017.0,
+            865.0
+          ],
+          [
+            1017.0,
+            926.0
+          ],
+          [
+            174.0,
+            926.0
+          ]
+        ]
+      },
+      {
+        "cls_id": 22,
+        "label": "text",
+        "score": 0.9541599750518799,
+        "coordinate": [
+          172,
+          956,
+          1017,
+          1174
+        ],
+        "order": 9,
+        "polygon_points": [
+          [
+            172.0,
+            956.0
+          ],
+          [
+            1017.0,
+            956.0
+          ],
+          [
+            1017.0,
+            1174.0
+          ],
+          [
+            172.0,
+            1174.0
+          ]
+        ]
+      }
+    ]
+  }
+}

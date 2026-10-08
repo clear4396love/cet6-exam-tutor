@@ -1,0 +1,19 @@
+# 每轮问答轨迹含用户输入，只保留在本机，不提交仓库。
+episodes/
+
+# 本地环境和密钥不提交仓库。
+.venv/
+.uv-python/
+.uv-cache/
+.env
+
+# Python 运行派生物可随时重建。
+__pycache__/
+*.pyc
+
+# 本地测试和已弃用数据库链留下的派生物。
+.pytest_cache/
+.docx_qa/
+tmp/
+t.db/
+milvus_verify.db/
