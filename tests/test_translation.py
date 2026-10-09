@@ -47,6 +47,7 @@ def test_translation_samples_are_cached_and_pending_ones_are_marked():
 
 
 @pytest.mark.local_corpus
+@pytest.mark.local_audit
 def test_all_cached_translation_analyses_match_the_reviewed_explanations():
     audit = (ROOT / "translation_audit.md").read_text(encoding="utf-8")
     explanations = dict(re.findall(

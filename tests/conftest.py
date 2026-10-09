@@ -9,11 +9,13 @@ import pytest
 def pytest_collection_modifyitems(items):
     root = Path(__file__).resolve().parents[1]
     cache = root / "parsed_papers"
-    if len(list(cache.glob("*.json"))) == 38 and (root / "translation_audit.md").exists():
-        return
+    has_cache = len(list(cache.glob("*.json"))) == 38
+    has_audit = (root / "translation_audit.md").exists()
     for item in items:
-        if "local_corpus" in item.keywords:
-            item.add_marker(pytest.mark.skip(reason="requires the private, manually reviewed 38-paper corpus"))
+        if "local_corpus" in item.keywords and not has_cache:
+            item.add_marker(pytest.mark.skip(reason="requires the 38-paper cache"))
+        elif "local_audit" in item.keywords and not has_audit:
+            item.add_marker(pytest.mark.skip(reason="requires the maintainer's private translation audit"))
 
 
 @pytest.fixture(scope="session", autouse=True)

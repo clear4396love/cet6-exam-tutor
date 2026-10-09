@@ -19,10 +19,8 @@ tmp/
 t.db/
 milvus_verify.db/
 
-# 真题原卷、OCR 中间产物与人工核对缓存只留本机；公开仓库只放格式说明。
+# 原卷与 OCR 中间产物只留本机；已核对的 parsed_papers/*.json 用于克隆后查题。
 databases/
-parsed_papers/**
-!parsed_papers/README.md
 translation_audit.md
 tests/test_corpus_integrity.py
 tests/test_section_a_ocr.py

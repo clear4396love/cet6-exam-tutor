@@ -1,4 +1,4 @@
-"""The public checkout excludes local content while retaining setup notes."""
+"""The public checkout includes verified caches but excludes raw files and private data."""
 
 import subprocess
 from pathlib import Path
@@ -7,7 +7,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def test_git_upload_boundary_excludes_local_corpus_and_keeps_public_notes(tmp_path):
+def test_git_upload_boundary_includes_caches_but_excludes_raw_files(tmp_path):
     (tmp_path / ".gitignore").write_text((ROOT / ".gitignore").read_text(encoding="utf-8"),
                                          encoding="utf-8")
     init = subprocess.run(["git", "init", "-q", str(tmp_path)], capture_output=True, text=True)
@@ -20,7 +20,8 @@ def test_git_upload_boundary_excludes_local_corpus_and_keeps_public_notes(tmp_pa
 
     for path in (
         "databases/试卷/original.pdf", "databases/ocr_pdfs/scan.pdf",
-        "parsed_papers/2024_12_1.json", "episodes/private.jsonl",
+        "databases/ocr_pdfs/paddle/doc_000.md", "databases/ocr_pdfs/paddle/meta.json",
+        "episodes/private.jsonl",
         "translation_audit.md", ".planning/notes.md", ".superpowers/private.md",
         "docs/superpowers/plans/internal.md", "eval/ocr_spike/source.md",
         "eval/scenario_results.jsonl", "eval/smoke_results.jsonl",
@@ -28,12 +29,13 @@ def test_git_upload_boundary_excludes_local_corpus_and_keeps_public_notes(tmp_pa
         "tests/test_section_a_ocr.py",
     ):
         assert ignored(path), path
-    for path in ("parsed_papers/README.md", "eval/cet6_skill_cases.json",
+    for path in ("parsed_papers/README.md", "parsed_papers/2024_12_1.json",
+                 "eval/cet6_skill_cases.json",
                  "eval/CET6_SKILL_EVAL.md", "README.md"):
         assert not ignored(path), path
 
 
-def test_existing_git_index_contains_no_private_corpus():
+def test_existing_git_index_has_all_caches_and_no_raw_files():
     if not (ROOT / ".git").exists():
         return  # A source-only copy has no Git index yet.
     result = subprocess.run(["git", "-C", str(ROOT), "-c", "core.quotepath=false", "ls-files"],
@@ -44,7 +46,11 @@ def test_existing_git_index_contains_no_private_corpus():
                         "eval/ocr_spike/")
     private_exact = {"translation_audit.md", "tests/test_corpus_integrity.py",
                      "tests/test_section_a_ocr.py"}
+    tracked_caches = [path for path in tracked if path.startswith("parsed_papers/")
+                      and path.endswith(".json")]
+    assert len(tracked_caches) == 38
     assert not [path for path in tracked if path.startswith(private_prefixes)
-                or (path.startswith("parsed_papers/") and path != "parsed_papers/README.md")
+                or (path.startswith("parsed_papers/") and path not in tracked_caches
+                    and path != "parsed_papers/README.md")
                 or (path.startswith("eval/") and path.endswith(".jsonl"))
                 or path in private_exact]

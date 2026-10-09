@@ -1,0 +1,254 @@
+{
+  "year": 2023,
+  "month": 3,
+  "exam_set": 1,
+  "source": "ocr",
+  "ocr_verified": true,
+  "paragraphs": {
+    "A": "1 The fog still chills the morning air and the cable cars still climb halfway to the stars.Yet on the ground,the BayArea has changed greatly since TonyBennett left his heart here.SiliconValley and the tech industry have led the region into a period of unprecedented wealth and innovation. But existing political and land limits have caused an alarming housing crisis and astronomical rise in social and economic difference.",
+    "B": "While the residents of most cities display pride and support for their home industries, drastic market distortions in the San Francisco Bay Area have created a boiling resentment in the region towards the tech industry. A vocal minority is even calling on officials to punish those who are benefitting from the economic and housing boom. If this boom and its consequences are not resolved, a drastic increase in social and economic difference may have a profound impact on the region for generations. A history and analysis of this transformation may hold invaluable insights about the opportunities. Perils of tech cities are currently being cultivated across the US, and indeed around the world.",
+    "C": "According to a recent study, San Francisco ranks first in California for economic difference. The averageincomeof thetop1%of householdsinthecityaverages$3.6million.Thisis44timesthe average income of those at the bottom, which stands at $81,094. The top 1% of the San Francisco peninsula's share of total income now extends to 30.8% of the region's income. This was a dramatic jump from 1989,where it stood at 15.8%.",
+    "D": "The region's economy has been fundamentally transformed by the technology industry springing from SiliconValley.Policies pushed by Mayor Ed Lee provided tax breaks for tech companies to set up shop along the city's long-neglected Mid-Market area. The city is now home to Twitter, Uber, Airbnb, Pinterest, Dropbox and others. In short, the Bay Area has become a global magnet for those with specialized skills, which has in turn helped fuel economic enthusiasm, and this economic growth hasreducedunemploymentto3.4%,anadmirablefeat.",
+    "E": "In spite of all that, the strength of recent job growth, combined with policies that have traditionally limited housing development in the city and throughout the peninsula, did not help ease the affordability crisis. In 2015 alone, the Bay Area added 64,000 in jobs. In the same year, only 5,000 newhomeswerebuilt.",
+    "F": "With the average house in the city costing over $1.25 million and average flat prices over $1.11 million, the minimum qualifying income to purchase a house has increased to $254,000. Considering that the average household income in the city currently stands at around $80,0oo, it is not an exaggeration to say that the dream of home ownership is nowbeyond the grasp of the vast majority oftoday's peoplewhorent.",
+    "G": "For generations,the stability and prosperity of the American middle class has been anchored byhome ownership.Studieshaveconsistentlyshown thatthevalueoflandhas overtakenoverallincome growth, thus providing a huge advantage to property owners as a vehicle of wealth building. When home prices soar above the reach of most households, the gap between the rich and the poor dramaticallyincreases.",
+    "H": ")If contributing factors leading to housing becoming less than affordable are not resolved over multiple generations, a small elite control a vast share of the country's total wealth. The result? A society where the threat of class warfare would loom large. A society's level of happiness is tied less tomeasures of quantitative wealth and more to measures of qualitative wealth.This means that how a person judges their security in comparison to their neighbors' has more of an impact on their happiness than their objective standard of living. At the same time, when a system no longer provides opportunities for the majority to participate in wealth building,it not only robs those who are excluded from opportunities,but also deprives them of their dignity.",
+    "I": "San Francisco and the Bay Area have long been committed to values which embrace inclusion and rejection of mainstream culture. To see these values coming apart so publicly adds insult to injury for a region once defined by its progressive social fabric. In the face of resentment, it is human to want revenge.But deteriorating policies such as heavily taxing technology companies or real estate developersarenotlikelytoshiftthebalance.",
+    "J": "The housing crisis is caused by two primary factors: the growing desirability of the Bay Area as a place to live due to its excellent economy, and our limited housing stock. Although the city is experiencing an unprecedented boom in new housing, more units are sorely needed. Protection policies were originally designed to suppress bad development and boost historic preservation in our urban areas. Now too many developers are experiencing excessive delays. Meanwhile, there are the land limitations of the Bay Area to consider. The region is surrounded by water and mountains. Local governments need to aid development as well.This means increasinghousing density throughout the region and buildingupwardswhile streamlining the approval process.",
+    "K": "Real estate alone will not solve the problem, of course. Transportation, too, needs to be updated and infrastructure extended to link distant regions to SiliconValley and the city.We need to build an effective high-speed commuting system linking the high-priced and crowed BayArea with the low-priced and low-density CentralValley.This would dramatically reduce travel times.And based on the operating speeds of hovering trains used in countries such as Japan or Spain, high-speed rail could shorten the time to travel between San Francisco and California's capitol, Sacramento,or from StocktontoSanJose,tounder 30minutes.Thissystemwouldbring oncedistantregionswithin reasonable commute to heavy job centers. The city also needs to update existing transportation routes combined with smart home-building policies that dramatically increase housing density in areas surrounding high-speed rail stations. By doing so, we will be able to build affordable housing within acceptable commuting distancesfor a significant bulk of the workforce.",
+    "L": "Our threatening housing crisis forces the difficult question of what type of society we would like to be. Will it be one where elites command the vast bulk of wealth and regional culture is defined by a aggressive business world?We were recently treated to a taste of the latter, whenlocal tech employee way to work.",
+    "M": "It doesn't have to be this way. But solutions need to be implemented now, before angry crowds grow from a nuisance to serious concern. It may take less than you might think. And in fact, the solutions to our housing crisis are already fairly clear. We need to increase the density of housing units. We need to use existing technology to shorten travel times and break the land limits. There is a way to solve complex social and economic problems without abandoning social responsibility. This is the"
+  },
+  "questions": {
+    "36": {
+      "stem": "SanFrancisco citygovernment offered taxbenefits to attract tech companies to establish operations in a less developed area.",
+      "answer": "D"
+    },
+    "37": {
+      "stem": "The fast rise in the prices of land and houses increases the economic inequality among people.",
+      "answer": "G"
+    },
+    "38": {
+      "stem": "San Francisco has been found to have the biggest income gap in California between the rich and the poor.",
+      "answer": "C"
+    },
+    "39": {
+      "stem": "The higher rate of employment, combined with limited housing supply, did not make it any easier to buy a house.",
+      "answer": "E"
+    },
+    "40": {
+      "stem": "When people compare their own living standard with others', it has a greater impact on their sense of contentment.",
+      "answer": "H"
+    },
+    "41": {
+      "stem": "Improved transport networks connecting the city to distant outlying areas will also help solve the housing crisis.",
+      "answer": "K"
+    },
+    "42": {
+      "stem": "Average incomes in the Bay Area make it virtually impossible for most tenant families to buy a home.",
+      "answer": "F"
+    },
+    "43": {
+      "stem": "Innovative solutions to social and economic problems should be introduced before it is too late.",
+      "answer": "M"
+    },
+    "44": {
+      "stem": "Residents of the San Francisco Bay Area strongly resent the tech industry because of the economic inequalityithascontributedto.",
+      "answer": "B"
+    },
+    "45": {
+      "stem": "One way to deal with the housing crisis is for the government to simplify the approval procedures for housing projects.",
+      "answer": "J"
+    }
+  },
+  "section_c": {
+    "passages": [
+      {
+        "q_from": 46,
+        "q_to": 50,
+        "text": "The suggestion that people should aim for dietary diversity by trying to eat a variety of foods has been a basic public health recommendation for decades in the United States everywhere. Now, however, experts are warning that aiming for a diverse diet may actually lead to just eating more calories, and, thus, to obesity. One issue is that people may not interpret \"variety\" the way nutritionists intend. This problem is highlighted by new research conducted by the American Heart Association. Researchers reviewed all the evidence published related to dietary diversity and saw a correlation between dietary diversity and a greater intake of both healthy and unhealthy foods. This had implications for obesity, as researchers found a greater prevalence of obesity among people with a greater dietary diversity. One author of the new study explained that their findings contradict standard dietary advice, as most dietary guidelines around the world include a statement of eating a variety of foods. But this advice does not seem to be supported by science, possibly because there is little agreement about the meaning of “dietary diversity,” which is not clearly and consistently defined. Some experts measure dietary diversity by counting the number of food groups eaten, while others look at the distribution of calories across individual foods, and still others measure how different foods eaten are from each other. Although the findings of this new study contradict standard dietary advice, they do not come as a surprise to all of the researchers involved. Dr. Rao, one of the study authors, noted that after 20 years of experience in the field of obesity, he has observed that people who have a regimented lifestyle and diet tend to be thinner and healthier than people with a wide variety of consumption. This anecdotal evidence matches the conclusions of the study, which found no evidence that dietary diversity promotes healthy body weight or optimal eating patterns, and limited evidence shows that eating a variety of foods is actually associated with consuming more calories, poor eating patterns and weight gain. Further, there is some evidence that a greater variety of food options in a single meal may delay people's feeling of fullness and actually increase how much they eat. Based on their findings, the researchers endorse a diet consisting of a limited number of healthy foods such as vegetables, fruits, grains, and poultry. They also recommend that people simultaneously endeavor to restrict consumption of sweets, sugar and red meat. The researchers stress, however, that their dietary recommendations do not imply dietary diversity is never positive, and that, in the past, diversity in diets of whole, unprocessed food may have actually been very beneficial.",
+        "questions": {
+          "46": {
+            "stem": "What has been a standard piece of dietary advice for decades?",
+            "options": {
+              "A": "People should diversify what they eat.",
+              "B": "People should have a well-balanced diet.",
+              "C": "People should cultivate a healthy eating habit.",
+              "D": "People should limit calorie intake to avoid obesity."
+            },
+            "answer": "A"
+          },
+          "47": {
+            "stem": "What did the new research by the American Heart Association find?",
+            "options": {
+              "A": "Unhealthy food makes people gain weight more easily.",
+              "B": "Dietary diversity is positively related to good health.",
+              "C": "People seeking dietary diversity tend to eat more.",
+              "D": "Big eaters are more likely to become overweight."
+            },
+            "answer": "C"
+          },
+          "48": {
+            "stem": "What could help to explain the contradiction between the new findings and the common public health recommendation?",
+            "options": {
+              "A": "There is little consensus on the definition of dietary diversity.",
+              "B": "The methods researchers use to measure nutrition vary greatly.",
+              "C": "Conventional wisdom about diet is seldom supported by science.",
+              "D": "Most dietary guidelines around the world contradict one another."
+            },
+            "answer": "A"
+          },
+          "49": {
+            "stem": "What did Dr. Rao find after 20 years of research on obesity?",
+            "options": {
+              "A": "There is no clear definition of optimal eating patterns.",
+              "B": "Diversified food intake may not contribute to health.",
+              "C": "Eating patterns and weight gain go hand in hand.",
+              "D": "Dietary diversity promotes healthy body weight."
+            },
+            "answer": "B"
+          },
+          "50": {
+            "stem": "What does the passage say about people who eat a great variety of food?",
+            "options": {
+              "A": "They are more likely to eat foods beneficial to their health.",
+              "B": "They don't have any problems getting sufficient nutrition.",
+              "C": "They don't feel they have had enough until they overeat.",
+              "D": "They tend to consume more sweets, sugar and red meat."
+            },
+            "answer": "C"
+          }
+        },
+        "id": 1
+      },
+      {
+        "q_from": 51,
+        "q_to": 55,
+        "text": "The ability to make inferences from same and different, once thought to be unique to humans, is viewed as a cornerstone of abstract intelligent thought. A new study, however, has shown that what psychologists call same-different discrimination is present in creatures generally seen as unintelligent: newborn ducklings (小鸭). The study, published Thursday in Science, challenges our idea of what it means to have a birdbrain, said Edward Wasserman, an experimental psychologist at the University of Iowa who wrote an independent review of the study. “In fact, birds are extremely intelligent and our problem pretty much lies in figuring out how to get them to ‘talk’ to us, or tell us how smart they really are,” he said. Antone Martinho and Alex Kacelnik, co-authors of the new paper, devised a clever experiment to better test bird intelligence. First, they took 1-day-old ducklings and exposed them to a pair of moving objects. The two objects were either the same or different in shape or color. Then they exposed each duckling to two entirely new pairs of moving objects. The researchers found that about 70 percent of the ducklings preferred to move toward the pair of objects that had the same shape or color relationship as the first objects they saw. A duckling that was first shown two green spheres, in other words, was more likely to move toward a pair of blue spheres than a mismatched pair of orange and purple spheres. Ducklings go through a rapid learning process called imprinting shortly after birth—it's what allows them to identify and follow their mothers. These findings suggest that ducklings use abstract relationships between sensory inputs like color, shape, sounds and odor to recognize their mothers, said Dr. Kacelnik. By studying imprinting, the authors of this study have shown for the first time that an animal can learn relationships between concepts without training, said Jeffrey Katz, an experimental psychologist at Auburn University who was not involved in the study. Previous studies have suggested that other animals, including pigeons, dolphins, honeybees and some primates (灵长类动物), can discern same from different, but only after extensive training. Adding ducklings to the list—particularly untrained newborn ducklings—suggests that the ability to compare abstract concepts “is far more necessary to a wider variety of animals’ survival than we previously thought,” Dr Martinho said. He believes the ability is so crucial because it helps animals consider context when identifying objects in their environment. It's clear from this study and others like it that \"animals process and appreciate far more of the intricacies in their world than we've ever understood,\" Dr. Wasserman said. \"We are in a revolutionary phase in terms of our ability to understand the minds of other animals.\"",
+        "questions": {
+          "51": {
+            "stem": "In what way were humans thought to be unique?",
+            "options": {
+              "A": "Being capable of same-different discrimination.",
+              "B": "Being able to distinguish abstract from concrete.",
+              "C": "Being a major source of animal intelligence.",
+              "D": "Being the cornerstone of the creative world."
+            },
+            "answer": "A"
+          },
+          "52": {
+            "stem": "What do we learn from the study published in Science?",
+            "options": {
+              "A": "Our understanding of the bird world was biased.",
+              "B": "Our communication with birds was far from adequate.",
+              "C": "Our knowledge about bird psychology needs updating.",
+              "D": "Our conception of birds' intelligence was wrong."
+            },
+            "answer": "D"
+          },
+          "53": {
+            "stem": "What did the researchers discover about most ducklings from their experiment?",
+            "options": {
+              "A": "They could associate shape with color.",
+              "B": "They could tell whether the objects were the same.",
+              "C": "They preferred colored objects to colorless ones.",
+              "D": "They reacted quickly to moving objects."
+            },
+            "answer": "B"
+          },
+          "54": {
+            "stem": "What was novel about the experiment in the study reported in Science?",
+            "options": {
+              "A": "The ducklings were compared with other animals.",
+              "B": "It was conducted by experimental psychologists.",
+              "C": "The animals used received no training.",
+              "D": "It used a number of colors and shapes."
+            },
+            "answer": "C"
+          },
+          "55": {
+            "stem": "What do we learn from Dr. Wasserman's comment on the study of animal minds at the end of the passage?",
+            "options": {
+              "A": "Research methods are being updated.",
+              "B": "It is getting more and more intricate.",
+              "C": "It is attracting more public attention.",
+              "D": "Remarkable progress is being made."
+            },
+            "answer": "D"
+          }
+        },
+        "id": 2
+      }
+    ]
+  },
+  "section_a": {
+    "q_from": 26,
+    "q_to": 35,
+    "text": "Unthinkable as it may be, humanity, every last person, could someday be wiped from the face of the Earth. We've learned to worry about asteroids (小行星) and super volcanoes, but the more likely, according to Nick Bostrom, a professor of philosophy at Oxford, is that we humans will destroy ourselves. Professor Bostrom, who directs Oxford's Future of Humanity Institute, has argued over the course of several papers that human risks are poorly understood and, worse sill, underestimated by society. Some of these existential risks are fairly well known, especially the natural ones. But others are or even exotic. Most worrying to Bostrom is the subset of existential risks that from human technology, a subset that he expects to grow in number and potency over the next century. Despite his concerns about the risks to humans by technological progress, Bostrom is no luddite (科技进步反对者). In fact, he is a longtime of transhumanism—the effort to improve the human condition, and even human nature itself, through technological means. In the long run he sees technology as a bridge, a bridge we humans must cross with great care, in order to reach new and better modes of being. In his work, Bostrom uses the tools of philosophy and mathematics, in, probability theory, to try and determine how we as a might achieve this safe passage. What follows is my conversation with Bostrom about some of the most interesting and worrying existential risks that humanity might in the decades and centuries to come, and about what we can do to make sure we outlast them.",
+    "words": {
+      "A": "advocate",
+      "B": "arise",
+      "C": "shrewdly",
+      "D": "encounter",
+      "E": "essential",
+      "F": "evaporation",
+      "G": "extinction",
+      "H": "obscure",
+      "I": "particular",
+      "J": "posed",
+      "K": "scenario",
+      "L": "severely",
+      "M": "emphasized",
+      "N": "species",
+      "O": "variety"
+    },
+    "questions": {
+      "26": {
+        "answer": "K",
+        "answer_word": "scenario"
+      },
+      "27": {
+        "answer": "G",
+        "answer_word": "extinction"
+      },
+      "28": {
+        "answer": "L",
+        "answer_word": "severely"
+      },
+      "29": {
+        "answer": "H",
+        "answer_word": "obscure"
+      },
+      "30": {
+        "answer": "B",
+        "answer_word": "arise"
+      },
+      "31": {
+        "answer": "J",
+        "answer_word": "posed"
+      },
+      "32": {
+        "answer": "A",
+        "answer_word": "advocate"
+      },
+      "33": {
+        "answer": "I",
+        "answer_word": "particular"
+      },
+      "34": {
+        "answer": "N",
+        "answer_word": "species"
+      },
+      "35": {
+        "answer": "D",
+        "answer_word": "encounter"
+      }
+    },
+    "practice_text": "Unthinkable as it may be, humanity, every last person, could someday be wiped from the face of the Earth. We've learned to worry about asteroids (小行星) and super volcanoes, but the more likely {{26}}, according to Nick Bostrom, a professor of philosophy at Oxford, is that we humans will destroy ourselves. Professor Bostrom, who directs Oxford's Future of Humanity Institute, has argued over the course of several papers that human {{27}} risks are poorly understood and, worse sill, {{28}} underestimated by society. Some of these existential risks are fairly well known, especially the natural ones. But others are {{29}} or even exotic. Most worrying to Bostrom is the subset of existential risks that {{30}} from human technology, a subset that he expects to grow in number and potency over the next century. Despite his concerns about the risks {{31}} to humans by technological progress, Bostrom is no luddite (科技进步反对者). In fact, he is a longtime {{32}} of transhumanism—the effort to improve the human condition, and even human nature itself, through technological means. In the long run he sees technology as a bridge, a bridge we humans must cross with great care, in order to reach new and better modes of being. In his work, Bostrom uses the tools of philosophy and mathematics, in {{33}}, probability theory, to try and determine how we as a {{34}} might achieve this safe passage. What follows is my conversation with Bostrom about some of the most interesting and worrying existential risks that humanity might {{35}} in the decades and centuries to come, and about what we can do to make sure we outlast them."
+  },
+  "writing": "People are now increasingly aware of the danger of ‘appearance anxiety’ or being obsessed with one's looks.",
+  "translation": "徐霞客是中国明代的著名地理学家，他花费了三十多年的时间游遍了大半个中国。他主要靠徒步跋涉，寻访了许多荒远偏僻的地区。他把自己的见闻和考察结果详细记录下来，为后人留下了珍贵的考察资料。他通过对许多河流的实地调查，纠正了文献中关于水源的错误。他还详细地描述了地形、气候等因素对植物的影响，生动地描绘了各地的名胜古迹和风土人情。他的考察记录由后人整理成了《徐霞客游记》，在国内外产生了广泛的影响。",
+  "translation_sample": "Xu Xiake was a renowned geographer of China's Ming dynasty. Over more than 30 years, he traveled through much of the country, mainly on foot, visiting many remote and little-explored areas. He recorded his observations and findings in detail, leaving valuable research material for later generations. By investigating many rivers in person, he corrected errors in written accounts of their sources. He also described in detail how terrain, climate and other factors affected plants, and vividly portrayed local sights, customs and ways of life. Later generations compiled his records into *The Travels of Xu Xiake*, a work that has had a wide influence both in China and abroad.",
+  "translation_analysis": "1. **“徐霞客是……地理学家。”** → `Xu Xiake was a renowned geographer of China's Ming dynasty.` 人物介绍用主系表，朝代放名词后；历史人物用一般过去时。\n2. **“三十多年游遍大半中国，主要徒步……偏僻地区。”** → `Over more than 30 years, he traveled..., mainly on foot, visiting...` 时间先行，主干 `he traveled`；`on foot` 写方式，`visiting` 补具体考察地点。\n3. **“详细记录……为后人留下资料。”** → `He recorded..., leaving valuable research material...` 主句是记录，`leaving` 表自然结果；“后人”用 `later generations`，不是只指血缘后代的 `descendants`。\n4. **“通过实地调查河流……纠正文献水源错误。”** → `By investigating..., he corrected errors...` `By + -ing` 表方法；`their sources` 的 `their` 回指河流，指河流源头。\n5. **“描述地形气候影响……描绘名胜和风土人情。”** → `He also described... and vividly portrayed...` 两个过去式谓语并列；`how... affected plants` 处理“因素对植物的影响”，`customs and ways of life` 覆盖风土人情。\n6. **“考察记录由后人整理成……产生广泛影响。”** → `Later generations compiled..., a work that has had...` 用主动句明确整理者；同位语 `a work` 指《徐霞客游记》，`has had` 表影响延续至今。",
+  "translation_needs_review": false
+}

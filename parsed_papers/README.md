@@ -1,6 +1,6 @@
-# 本机题目缓存（不随仓库分发）
+# 已收录题目缓存
 
-此目录只跟踪本说明文件。`*.json` 真题缓存被 `.gitignore` 排除；不要提交真题正文、答案、译文、范文或 OCR 原件。`examples/synthetic_paper.json` 是可公开运行的虚构格式示例。
+此目录跟踪 38 套 `*.json` 缓存，供 Skill 和 Streamlit 在克隆后按年份、月份、套数查题。它们包含真题正文、答案及部分参考内容；OCR 产物和 PDF 不在仓库中。`examples/synthetic_paper.json` 则是虚构的离线演示。发布这些缓存前须确认分发权限。
 
 文件名使用 `<year>_<month>_<exam_set>.json`，例如 `2024_12_1.json`。主要字段按板块可选；缺失板块应视为不可练习，而不是补猜：
 
