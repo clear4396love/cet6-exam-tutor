@@ -5,6 +5,12 @@ explicit/implicit reading lookup, a distractor explanation, missing coordinates,
 writing/translation task views, the reference reveal gate, progress/history,
 cache misses, and an unrelated negative control.
 
+These scenarios require the maintainer's locally verified paper cache, which is
+not published with the source. A clean clone can run the synthetic offline demo
+and non-corpus tests, but cannot reproduce real-paper Skill traces until the
+user supplies and verifies their own cache. The historical counts below are
+observations from local runs, not claims about a clean clone.
+
 From the project root, with its `.venv` active:
 
 ```powershell
@@ -14,7 +20,7 @@ python -m tools.cet6_skill_eval
 ```
 
 `pytest.ini` limits discovery to `tests/` and places pytest's temporary files
-under the Git-ignored `tmp/`. On Windows, if the system Temp directory has
+under the Git-ignored `.pytest-tmp/`. On Windows, if the system Temp directory has
 restricted permissions, set Python's temporary directory before starting it:
 
 ```powershell

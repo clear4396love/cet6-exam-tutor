@@ -1,6 +1,8 @@
 import os  # 计算项目根。
 import sys  # 补导入路径。
 
+import pytest
+
 
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if BASE not in sys.path:
@@ -102,6 +104,7 @@ def test_practice_cases_cover_submission_tier_boundaries():
     assert tiers[-1] == "session_review"
 
 
+@pytest.mark.local_corpus
 def test_cloze_practice_case_covers_safe_view_and_keys_grading(tmp_path, monkeypatch):
     case = next(case for case in PRACTICE_CASES if case["id"] == 3)
     rows = run_practice_case(case, str(tmp_path))
@@ -111,6 +114,7 @@ def test_cloze_practice_case_covers_safe_view_and_keys_grading(tmp_path, monkeyp
     assert rows[2]["actual"]["correct"] is True
 
 
+@pytest.mark.local_corpus
 def test_section_c_practice_case_uses_real_two_passage_cache(tmp_path):
     case = next(case for case in PRACTICE_CASES if case["id"] == 4)
     rows = run_practice_case(case, str(tmp_path))
@@ -168,6 +172,7 @@ def test_practice_runner_isolates_each_case_ledger(tmp_path, monkeypatch):
     assert first[0]["failed"] == second[0]["failed"] == []
 
 
+@pytest.mark.local_corpus
 def test_draft_scenario_uses_real_cache_and_restores_pending_draft(tmp_path):
     case = next(item for item in scenario_eval.DRAFT_CASES if item["id"] == 5)
     rows = scenario_eval.run_draft_case(case, str(tmp_path))

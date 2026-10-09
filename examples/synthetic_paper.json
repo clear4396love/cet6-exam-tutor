@@ -1,0 +1,22 @@
+{
+  "synthetic": true,
+  "section_c": {
+    "passages": [
+      {
+        "text": "A fictional school club visited a community garden on Saturday. The students watered herbs and drew pictures of butterflies.",
+        "questions": {
+          "46": {
+            "stem": "Which place did the group visit?",
+            "options": {
+              "A": "A museum",
+              "B": "A community garden",
+              "C": "A railway station",
+              "D": "A sports stadium"
+            },
+            "answer": "B"
+          }
+        }
+      }
+    ]
+  }
+}

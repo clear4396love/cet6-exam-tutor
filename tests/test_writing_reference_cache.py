@@ -2,10 +2,13 @@ import json
 from pathlib import Path
 from unittest.mock import patch
 
+import pytest
+
 from config import ragconfig
 from retrieval.service import Service
 
 
+@pytest.mark.local_corpus
 def test_current_writing_cache_is_fail_closed(tmp_path):
     service = Service(ragconfig(), learning_path=tmp_path / "learning.jsonl")
     files = list((Path(__file__).resolve().parents[1] / "parsed_papers").glob("*.json"))

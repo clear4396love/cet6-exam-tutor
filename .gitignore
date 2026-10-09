@@ -13,7 +13,25 @@ __pycache__/
 
 # 本地测试和已弃用数据库链留下的派生物。
 .pytest_cache/
+.pytest-tmp/
 .docx_qa/
 tmp/
 t.db/
 milvus_verify.db/
+
+# 真题原卷、OCR 中间产物与人工核对缓存只留本机；公开仓库只放格式说明。
+databases/
+parsed_papers/**
+!parsed_papers/README.md
+translation_audit.md
+tests/test_corpus_integrity.py
+tests/test_section_a_ocr.py
+
+# 模型运行结果可能包含真题原文或用户输入；评测定义本身可以公开。
+eval/ocr_spike/
+eval/*.jsonl
+
+# 本机代理过程记录不属于发布内容。
+.planning/
+.superpowers/
+docs/superpowers/

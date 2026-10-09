@@ -6,6 +6,16 @@ from pathlib import Path
 import pytest
 
 
+def pytest_collection_modifyitems(items):
+    root = Path(__file__).resolve().parents[1]
+    cache = root / "parsed_papers"
+    if len(list(cache.glob("*.json"))) == 38 and (root / "translation_audit.md").exists():
+        return
+    for item in items:
+        if "local_corpus" in item.keywords:
+            item.add_marker(pytest.mark.skip(reason="requires the private, manually reviewed 38-paper corpus"))
+
+
 @pytest.fixture(scope="session", autouse=True)
 def writable_python_temp(tmp_path_factory):
     temp_root = tmp_path_factory.getbasetemp() / "python-temp"

@@ -6,6 +6,8 @@ import tempfile
 from pathlib import Path
 from unittest.mock import patch
 
+import pytest
+
 from memory.episode import Episode
 from retrieval.service import Service
 
@@ -33,6 +35,7 @@ def _ask(message):
         return reply, service.episode.lines()[0]
 
 
+@pytest.mark.local_corpus
 def test_translation_samples_are_cached_and_pending_ones_are_marked():
     files = sorted((ROOT / "parsed_papers").glob("*.json"))
     assert len(files) == 38
@@ -43,6 +46,7 @@ def test_translation_samples_are_cached_and_pending_ones_are_marked():
         assert paper["translation_needs_review"] is (path.stem in PENDING)
 
 
+@pytest.mark.local_corpus
 def test_all_cached_translation_analyses_match_the_reviewed_explanations():
     audit = (ROOT / "translation_audit.md").read_text(encoding="utf-8")
     explanations = dict(re.findall(
@@ -55,6 +59,7 @@ def test_all_cached_translation_analyses_match_the_reviewed_explanations():
         assert paper["translation_analysis"] == explanations[path.stem].strip()
 
 
+@pytest.mark.local_corpus
 def test_translation_question_shows_original_and_non_official_sample():
     reply, trace = _ask("2024年12月第1套翻译怎么写")
 
@@ -66,6 +71,7 @@ def test_translation_question_shows_original_and_non_official_sample():
     assert trace["retrieved_doc_ids"] == ["2024_12_1"]
 
 
+@pytest.mark.local_corpus
 def test_pending_translation_is_not_shown_to_student():
     reply, trace = _ask("2020年9月第1套翻译怎么写")
 
@@ -84,6 +90,7 @@ def test_translation_requires_full_paper_and_existing_cache():
     assert absent_trace["stage"] == "cache_miss_paper"
 
 
+@pytest.mark.local_corpus
 def test_switching_between_translation_and_reading_does_not_keep_stale_section():
     with tempfile.TemporaryDirectory() as directory:
         service = Service(config=None)

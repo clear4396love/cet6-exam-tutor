@@ -4,6 +4,8 @@ import tempfile
 from contextlib import ExitStack
 from unittest.mock import patch
 
+import pytest
+
 BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # exam-tutor/
 if BASE not in sys.path:
     sys.path.insert(0, BASE)
@@ -227,6 +229,7 @@ def test_section_a_missing_cache_does_not_write():
             paper_parser.CACHE_DIR = old
 
 
+@pytest.mark.local_corpus
 def test_section_c_answer_followup_and_explanation_boundary():
     answers, rows = _run([
         "2020年7月第1套第49题选什么",
@@ -247,6 +250,7 @@ def test_section_c_answer_followup_and_explanation_boundary():
     assert rows[2]["hit"] is True
 
 
+@pytest.mark.local_corpus
 def test_section_c_missing_section_fails_closed():
     answers, rows = _run(["2022年9月第2套第49题选什么"], real_loaders=True)
     assert answers[0].startswith(DEGRADE_PREFIX)
@@ -254,6 +258,7 @@ def test_section_c_missing_section_fails_closed():
     assert rows[0]["stage"] == "cache_miss_section"
 
 
+@pytest.mark.local_corpus
 def test_section_c_explanation_works_across_papers_and_both_passages():
     cases = [
         ("2020年12月第1套第46题为什么选B", "B", "2020_12_1"),
@@ -284,6 +289,7 @@ def test_section_c_explanation_needs_original_passage():
     assert app._tr["hit"] is False
 
 
+@pytest.mark.local_corpus
 def test_section_c_model_failure_keeps_cached_answer():
     class BrokenGeneration:
         def __init__(self, config, max_tokens=None):
